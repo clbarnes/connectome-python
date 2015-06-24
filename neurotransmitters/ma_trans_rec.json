@@ -1,0 +1,1920 @@
+{
+  "ADAL": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "ADAR": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "ADEL": {
+    "receptors": [
+      "DOP-2",
+      "OCTR-1",
+      "TYRA-3"
+    ],
+    "transmitters": [
+      "dopamine"
+    ]
+  },
+  "ADER": {
+    "receptors": [
+      "DOP-2",
+      "OCTR-1",
+      "TYRA-3"
+    ],
+    "transmitters": [
+      "dopamine"
+    ]
+  },
+  "ADFL": {
+    "receptors": [],
+    "transmitters": [
+      "serotonin"
+    ]
+  },
+  "ADFR": {
+    "receptors": [],
+    "transmitters": [
+      "serotonin"
+    ]
+  },
+  "ADLL": {
+    "receptors": [
+      "SER-6",
+      "TYRA-3"
+    ],
+    "transmitters": []
+  },
+  "ADLR": {
+    "receptors": [
+      "SER-6",
+      "TYRA-3"
+    ],
+    "transmitters": []
+  },
+  "AFDL": {
+    "receptors": [
+      "TYRA-3"
+    ],
+    "transmitters": []
+  },
+  "AFDR": {
+    "receptors": [
+      "TYRA-3"
+    ],
+    "transmitters": []
+  },
+  "AIAL": {
+    "receptors": [
+      "MOD-1"
+    ],
+    "transmitters": []
+  },
+  "AIAR": {
+    "receptors": [
+      "MOD-1"
+    ],
+    "transmitters": []
+  },
+  "AIBL": {
+    "receptors": [
+      "MOD-1",
+      "SER-4"
+    ],
+    "transmitters": []
+  },
+  "AIBR": {
+    "receptors": [
+      "MOD-1",
+      "SER-4"
+    ],
+    "transmitters": []
+  },
+  "AIML": {
+    "receptors": [
+      "TYRA-3"
+    ],
+    "transmitters": [
+      "serotonin"
+    ]
+  },
+  "AIMR": {
+    "receptors": [
+      "TYRA-3"
+    ],
+    "transmitters": [
+      "serotonin"
+    ]
+  },
+  "AINL": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "AINR": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "AIYL": {
+    "receptors": [
+      "MOD-1",
+      "OCTR-1",
+      "SER-2"
+    ],
+    "transmitters": []
+  },
+  "AIYR": {
+    "receptors": [
+      "MOD-1",
+      "OCTR-1",
+      "SER-2"
+    ],
+    "transmitters": []
+  },
+  "AIZL": {
+    "receptors": [
+      "MOD-1",
+      "SER-2"
+    ],
+    "transmitters": []
+  },
+  "AIZR": {
+    "receptors": [
+      "MOD-1",
+      "SER-2"
+    ],
+    "transmitters": []
+  },
+  "ALA": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "ALML": {
+    "receptors": [
+      "DOP-1",
+      "LGC-55",
+      "TYRA-2"
+    ],
+    "transmitters": []
+  },
+  "ALMR": {
+    "receptors": [
+      "DOP-1",
+      "LGC-55",
+      "TYRA-2"
+    ],
+    "transmitters": []
+  },
+  "ALNL": {
+    "receptors": [
+      "DOP-1",
+      "LGC-55",
+      "SER-2"
+    ],
+    "transmitters": []
+  },
+  "ALNR": {
+    "receptors": [
+      "DOP-1",
+      "LGC-55",
+      "SER-2"
+    ],
+    "transmitters": []
+  },
+  "AQR": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "AS01": {
+    "receptors": [
+      "DOP-1",
+      "DOP-3"
+    ],
+    "transmitters": []
+  },
+  "AS02": {
+    "receptors": [
+      "DOP-1",
+      "DOP-3"
+    ],
+    "transmitters": []
+  },
+  "AS03": {
+    "receptors": [
+      "DOP-1",
+      "DOP-3"
+    ],
+    "transmitters": []
+  },
+  "AS04": {
+    "receptors": [
+      "DOP-1",
+      "DOP-3"
+    ],
+    "transmitters": []
+  },
+  "AS05": {
+    "receptors": [
+      "DOP-1",
+      "DOP-3"
+    ],
+    "transmitters": []
+  },
+  "AS06": {
+    "receptors": [
+      "DOP-1",
+      "DOP-3"
+    ],
+    "transmitters": []
+  },
+  "AS07": {
+    "receptors": [
+      "DOP-1",
+      "DOP-3"
+    ],
+    "transmitters": []
+  },
+  "AS08": {
+    "receptors": [
+      "DOP-1",
+      "DOP-3"
+    ],
+    "transmitters": []
+  },
+  "AS09": {
+    "receptors": [
+      "DOP-1",
+      "DOP-3"
+    ],
+    "transmitters": []
+  },
+  "AS10": {
+    "receptors": [
+      "DOP-1",
+      "DOP-3"
+    ],
+    "transmitters": []
+  },
+  "AS11": {
+    "receptors": [
+      "DOP-1",
+      "DOP-3"
+    ],
+    "transmitters": []
+  },
+  "ASEL": {
+    "receptors": [
+      "DOP-3",
+      "TYRA-2"
+    ],
+    "transmitters": []
+  },
+  "ASER": {
+    "receptors": [
+      "DOP-3",
+      "TYRA-2"
+    ],
+    "transmitters": []
+  },
+  "ASGL": {
+    "receptors": [
+      "DOP-4",
+      "TYRA-2"
+    ],
+    "transmitters": [
+      "serotonin"
+    ]
+  },
+  "ASGR": {
+    "receptors": [
+      "DOP-4",
+      "TYRA-2"
+    ],
+    "transmitters": [
+      "serotonin"
+    ]
+  },
+  "ASHL": {
+    "receptors": [
+      "OCTR-1",
+      "SER-3",
+      "SER-5",
+      "TYRA-2"
+    ],
+    "transmitters": []
+  },
+  "ASHR": {
+    "receptors": [
+      "OCTR-1",
+      "SER-3",
+      "SER-5",
+      "TYRA-2"
+    ],
+    "transmitters": []
+  },
+  "ASIL": {
+    "receptors": [
+      "OCTR-1",
+      "SER-6",
+      "TYRA-2"
+    ],
+    "transmitters": []
+  },
+  "ASIR": {
+    "receptors": [
+      "OCTR-1",
+      "SER-6",
+      "TYRA-2"
+    ],
+    "transmitters": []
+  },
+  "ASJL": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "ASJR": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "ASKL": {
+    "receptors": [
+      "DOP-3",
+      "TYRA-3"
+    ],
+    "transmitters": []
+  },
+  "ASKR": {
+    "receptors": [
+      "DOP-3",
+      "TYRA-3"
+    ],
+    "transmitters": []
+  },
+  "AUAL": {
+    "receptors": [
+      "DOP-1",
+      "SER-2",
+      "TYRA-3"
+    ],
+    "transmitters": []
+  },
+  "AUAR": {
+    "receptors": [
+      "DOP-1",
+      "SER-2",
+      "TYRA-3"
+    ],
+    "transmitters": []
+  },
+  "AVAL": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "AVAR": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "AVBL": {
+    "receptors": [
+      "LGC-55"
+    ],
+    "transmitters": []
+  },
+  "AVBR": {
+    "receptors": [
+      "LGC-55"
+    ],
+    "transmitters": []
+  },
+  "AVDL": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "AVDR": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "AVEL": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "AVER": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "AVFL": {
+    "receptors": [
+      "SER-4"
+    ],
+    "transmitters": []
+  },
+  "AVFR": {
+    "receptors": [
+      "SER-4"
+    ],
+    "transmitters": []
+  },
+  "AVG": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "AVHL": {
+    "receptors": [
+      "SER-2"
+    ],
+    "transmitters": []
+  },
+  "AVHR": {
+    "receptors": [
+      "SER-2"
+    ],
+    "transmitters": []
+  },
+  "AVJL": {
+    "receptors": [
+      "SER-5"
+    ],
+    "transmitters": []
+  },
+  "AVJR": {
+    "receptors": [
+      "SER-5"
+    ],
+    "transmitters": []
+  },
+  "AVKL": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "AVKR": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "AVL": {
+    "receptors": [
+      "DOP-4"
+    ],
+    "transmitters": []
+  },
+  "AVM": {
+    "receptors": [
+      "DOP-1",
+      "LGC-55"
+    ],
+    "transmitters": []
+  },
+  "AWAL": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "AWAR": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "AWBL": {
+    "receptors": [
+      "SER-5",
+      "SER-6"
+    ],
+    "transmitters": []
+  },
+  "AWBR": {
+    "receptors": [
+      "SER-5",
+      "SER-6"
+    ],
+    "transmitters": []
+  },
+  "AWCL": {
+    "receptors": [
+      "TYRA-3"
+    ],
+    "transmitters": []
+  },
+  "AWCR": {
+    "receptors": [
+      "TYRA-3"
+    ],
+    "transmitters": []
+  },
+  "BAGL": {
+    "receptors": [
+      "TYRA-3"
+    ],
+    "transmitters": []
+  },
+  "BAGR": {
+    "receptors": [
+      "TYRA-3"
+    ],
+    "transmitters": []
+  },
+  "BDUL": {
+    "receptors": [
+      "SER-2"
+    ],
+    "transmitters": []
+  },
+  "BDUR": {
+    "receptors": [
+      "SER-2"
+    ],
+    "transmitters": []
+  },
+  "CANL": {
+    "receptors": [
+      "DOP-4",
+      "SER-2",
+      "TYRA-2"
+    ],
+    "transmitters": []
+  },
+  "CANR": {
+    "receptors": [
+      "DOP-4",
+      "SER-2",
+      "TYRA-2"
+    ],
+    "transmitters": []
+  },
+  "CEPDL": {
+    "receptors": [
+      "DOP-2",
+      "OCTR-1",
+      "TYRA-3"
+    ],
+    "transmitters": [
+      "dopamine"
+    ]
+  },
+  "CEPDR": {
+    "receptors": [
+      "DOP-2",
+      "OCTR-1",
+      "TYRA-3"
+    ],
+    "transmitters": [
+      "dopamine"
+    ]
+  },
+  "CEPVL": {
+    "receptors": [
+      "DOP-2",
+      "OCTR-1",
+      "TYRA-3"
+    ],
+    "transmitters": [
+      "dopamine"
+    ]
+  },
+  "CEPVR": {
+    "receptors": [
+      "DOP-2",
+      "OCTR-1",
+      "TYRA-3"
+    ],
+    "transmitters": [
+      "dopamine"
+    ]
+  },
+  "DA01": {
+    "receptors": [
+      "DOP-1",
+      "DOP-3"
+    ],
+    "transmitters": []
+  },
+  "DA02": {
+    "receptors": [
+      "DOP-1",
+      "DOP-3"
+    ],
+    "transmitters": []
+  },
+  "DA03": {
+    "receptors": [
+      "DOP-1",
+      "DOP-3"
+    ],
+    "transmitters": []
+  },
+  "DA04": {
+    "receptors": [
+      "DOP-1",
+      "DOP-3"
+    ],
+    "transmitters": []
+  },
+  "DA05": {
+    "receptors": [
+      "DOP-1",
+      "DOP-3"
+    ],
+    "transmitters": []
+  },
+  "DA06": {
+    "receptors": [
+      "DOP-1",
+      "DOP-3"
+    ],
+    "transmitters": []
+  },
+  "DA07": {
+    "receptors": [
+      "DOP-1",
+      "DOP-3"
+    ],
+    "transmitters": []
+  },
+  "DA08": {
+    "receptors": [
+      "DOP-1",
+      "DOP-3"
+    ],
+    "transmitters": []
+  },
+  "DA09": {
+    "receptors": [
+      "DOP-1",
+      "DOP-3",
+      "SER-2"
+    ],
+    "transmitters": []
+  },
+  "DB01": {
+    "receptors": [
+      "DOP-1",
+      "DOP-3"
+    ],
+    "transmitters": []
+  },
+  "DB02": {
+    "receptors": [
+      "DOP-1",
+      "DOP-3"
+    ],
+    "transmitters": []
+  },
+  "DB03": {
+    "receptors": [
+      "DOP-1",
+      "DOP-3"
+    ],
+    "transmitters": []
+  },
+  "DB04": {
+    "receptors": [
+      "DOP-1",
+      "DOP-3"
+    ],
+    "transmitters": []
+  },
+  "DB05": {
+    "receptors": [
+      "DOP-1",
+      "DOP-3"
+    ],
+    "transmitters": []
+  },
+  "DB06": {
+    "receptors": [
+      "DOP-1",
+      "DOP-3"
+    ],
+    "transmitters": []
+  },
+  "DB07": {
+    "receptors": [
+      "DOP-1",
+      "DOP-3"
+    ],
+    "transmitters": []
+  },
+  "DD01": {
+    "receptors": [
+      "DOP-3",
+      "MOD-1"
+    ],
+    "transmitters": []
+  },
+  "DD02": {
+    "receptors": [
+      "DOP-3",
+      "MOD-1"
+    ],
+    "transmitters": []
+  },
+  "DD03": {
+    "receptors": [
+      "DOP-3",
+      "MOD-1"
+    ],
+    "transmitters": []
+  },
+  "DD04": {
+    "receptors": [
+      "DOP-3",
+      "MOD-1"
+    ],
+    "transmitters": []
+  },
+  "DD05": {
+    "receptors": [
+      "DOP-3",
+      "MOD-1"
+    ],
+    "transmitters": []
+  },
+  "DD06": {
+    "receptors": [
+      "DOP-3",
+      "MOD-1"
+    ],
+    "transmitters": []
+  },
+  "DVA": {
+    "receptors": [
+      "SER-2",
+      "SER-4"
+    ],
+    "transmitters": []
+  },
+  "DVB": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "DVC": {
+    "receptors": [
+      "SER-1",
+      "SER-4"
+    ],
+    "transmitters": []
+  },
+  "FLPL": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "FLPR": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "HSNL": {
+    "receptors": [
+      "LGC-55"
+    ],
+    "transmitters": [
+      "serotonin"
+    ]
+  },
+  "HSNR": {
+    "receptors": [
+      "LGC-55"
+    ],
+    "transmitters": [
+      "serotonin"
+    ]
+  },
+  "I1L": {
+    "receptors": [
+      "DOP-4"
+    ],
+    "transmitters": []
+  },
+  "I1R": {
+    "receptors": [
+      "DOP-4"
+    ],
+    "transmitters": []
+  },
+  "I2L": {
+    "receptors": [
+      "DOP-4",
+      "SER-7"
+    ],
+    "transmitters": []
+  },
+  "I2R": {
+    "receptors": [
+      "DOP-4",
+      "SER-7"
+    ],
+    "transmitters": []
+  },
+  "I3": {
+    "receptors": [
+      "SER-7"
+    ],
+    "transmitters": []
+  },
+  "I4": {
+    "receptors": [
+      "SER-7"
+    ],
+    "transmitters": []
+  },
+  "I5": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "I6": {
+    "receptors": [
+      "SER-7"
+    ],
+    "transmitters": []
+  },
+  "IL1DL": {
+    "receptors": [
+      "LGC-55"
+    ],
+    "transmitters": []
+  },
+  "IL1DR": {
+    "receptors": [
+      "LGC-55"
+    ],
+    "transmitters": []
+  },
+  "IL1L": {
+    "receptors": [
+      "LGC-55"
+    ],
+    "transmitters": []
+  },
+  "IL1R": {
+    "receptors": [
+      "LGC-55"
+    ],
+    "transmitters": []
+  },
+  "IL1VL": {
+    "receptors": [
+      "LGC-55"
+    ],
+    "transmitters": []
+  },
+  "IL1VR": {
+    "receptors": [
+      "LGC-55"
+    ],
+    "transmitters": []
+  },
+  "IL2DL": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "IL2DR": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "IL2L": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "IL2R": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "IL2VL": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "IL2VR": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "LUAL": {
+    "receptors": [
+      "SER-2"
+    ],
+    "transmitters": []
+  },
+  "LUAR": {
+    "receptors": [
+      "SER-2"
+    ],
+    "transmitters": []
+  },
+  "M1": {
+    "receptors": [
+      "SER-4"
+    ],
+    "transmitters": []
+  },
+  "M2L": {
+    "receptors": [
+      "SER-7"
+    ],
+    "transmitters": []
+  },
+  "M2R": {
+    "receptors": [
+      "SER-7"
+    ],
+    "transmitters": []
+  },
+  "M3L": {
+    "receptors": [
+      "SER-7"
+    ],
+    "transmitters": []
+  },
+  "M3R": {
+    "receptors": [
+      "SER-7"
+    ],
+    "transmitters": []
+  },
+  "M4": {
+    "receptors": [
+      "SER-7"
+    ],
+    "transmitters": []
+  },
+  "M5": {
+    "receptors": [
+      "SER-7"
+    ],
+    "transmitters": []
+  },
+  "MCL": {
+    "receptors": [
+      "SER-7",
+      "TYRA-2"
+    ],
+    "transmitters": []
+  },
+  "MCR": {
+    "receptors": [
+      "SER-7",
+      "TYRA-2"
+    ],
+    "transmitters": []
+  },
+  "MI": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "NSML": {
+    "receptors": [
+      "DOP-3",
+      "SER-2",
+      "SER-4",
+      "TYRA-2"
+    ],
+    "transmitters": [
+      "serotonin"
+    ]
+  },
+  "NSMR": {
+    "receptors": [
+      "DOP-3",
+      "SER-2",
+      "SER-4",
+      "TYRA-2"
+    ],
+    "transmitters": [
+      "serotonin"
+    ]
+  },
+  "OLLL": {
+    "receptors": [
+      "DOP-6",
+      "SER-2"
+    ],
+    "transmitters": []
+  },
+  "OLLR": {
+    "receptors": [
+      "DOP-6",
+      "SER-2"
+    ],
+    "transmitters": []
+  },
+  "OLQDL": {
+    "receptors": [
+      "TYRA-3"
+    ],
+    "transmitters": []
+  },
+  "OLQDR": {
+    "receptors": [
+      "TYRA-3"
+    ],
+    "transmitters": []
+  },
+  "OLQVL": {
+    "receptors": [
+      "TYRA-3"
+    ],
+    "transmitters": []
+  },
+  "OLQVR": {
+    "receptors": [
+      "TYRA-3"
+    ],
+    "transmitters": []
+  },
+  "PDA": {
+    "receptors": [
+      "DOP-2",
+      "SER-2"
+    ],
+    "transmitters": []
+  },
+  "PDB": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "PDEL": {
+    "receptors": [
+      "DOP-2"
+    ],
+    "transmitters": [
+      "dopamine"
+    ]
+  },
+  "PDER": {
+    "receptors": [
+      "DOP-2"
+    ],
+    "transmitters": [
+      "dopamine"
+    ]
+  },
+  "PHAL": {
+    "receptors": [
+      "SER-3"
+    ],
+    "transmitters": []
+  },
+  "PHAR": {
+    "receptors": [
+      "SER-3"
+    ],
+    "transmitters": []
+  },
+  "PHBL": {
+    "receptors": [
+      "SER-3"
+    ],
+    "transmitters": []
+  },
+  "PHBR": {
+    "receptors": [
+      "SER-3"
+    ],
+    "transmitters": []
+  },
+  "PHCL": {
+    "receptors": [
+      "DOP-1"
+    ],
+    "transmitters": []
+  },
+  "PHCR": {
+    "receptors": [
+      "DOP-1"
+    ],
+    "transmitters": []
+  },
+  "PLML": {
+    "receptors": [
+      "DOP-1"
+    ],
+    "transmitters": []
+  },
+  "PLMR": {
+    "receptors": [
+      "DOP-1"
+    ],
+    "transmitters": []
+  },
+  "PLNL": {
+    "receptors": [
+      "DOP-1"
+    ],
+    "transmitters": []
+  },
+  "PLNR": {
+    "receptors": [
+      "DOP-1"
+    ],
+    "transmitters": []
+  },
+  "PQR": {
+    "receptors": [
+      "DOP-4"
+    ],
+    "transmitters": []
+  },
+  "PVCL": {
+    "receptors": [
+      "SER-2"
+    ],
+    "transmitters": []
+  },
+  "PVCR": {
+    "receptors": [
+      "SER-2"
+    ],
+    "transmitters": []
+  },
+  "PVDL": {
+    "receptors": [
+      "DOP-1",
+      "DOP-3",
+      "SER-2",
+      "TYRA-2"
+    ],
+    "transmitters": []
+  },
+  "PVDR": {
+    "receptors": [
+      "DOP-1",
+      "DOP-3",
+      "SER-2",
+      "TYRA-2"
+    ],
+    "transmitters": []
+  },
+  "PVM": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "PVNL": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "PVNR": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "PVPL": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "PVPR": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "PVQL": {
+    "receptors": [
+      "DOP-1",
+      "SER-1",
+      "SER-3"
+    ],
+    "transmitters": []
+  },
+  "PVQR": {
+    "receptors": [
+      "DOP-1",
+      "SER-1",
+      "SER-3"
+    ],
+    "transmitters": []
+  },
+  "PVR": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "PVT": {
+    "receptors": [
+      "SER-1",
+      "SER-2",
+      "SER-4",
+      "TYRA-3"
+    ],
+    "transmitters": []
+  },
+  "PVWL": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "PVWR": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "RIAL": {
+    "receptors": [
+      "DOP-2",
+      "SER-1",
+      "SER-2"
+    ],
+    "transmitters": []
+  },
+  "RIAR": {
+    "receptors": [
+      "DOP-2",
+      "SER-1",
+      "SER-2"
+    ],
+    "transmitters": []
+  },
+  "RIBL": {
+    "receptors": [
+      "DOP-1",
+      "SER-4"
+    ],
+    "transmitters": []
+  },
+  "RIBR": {
+    "receptors": [
+      "DOP-1",
+      "SER-4"
+    ],
+    "transmitters": []
+  },
+  "RICL": {
+    "receptors": [
+      "DOP-3",
+      "MOD-1",
+      "SER-1",
+      "SER-2",
+      "SER-6"
+    ],
+    "transmitters": [
+      "octopamine",
+      "serotonin"
+    ]
+  },
+  "RICR": {
+    "receptors": [
+      "DOP-3",
+      "MOD-1",
+      "SER-1",
+      "SER-2",
+      "SER-6"
+    ],
+    "transmitters": [
+      "octopamine",
+      "serotonin"
+    ]
+  },
+  "RID": {
+    "receptors": [
+      "DOP-2",
+      "MOD-1",
+      "SER-2"
+    ],
+    "transmitters": []
+  },
+  "RIFL": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "RIFR": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "RIGL": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "RIGR": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "RIH": {
+    "receptors": [],
+    "transmitters": [
+      "serotonin"
+    ]
+  },
+  "RIML": {
+    "receptors": [
+      "DOP-1",
+      "MOD-1",
+      "SER-4"
+    ],
+    "transmitters": [
+      "serotonin",
+      "tyramine"
+    ]
+  },
+  "RIMR": {
+    "receptors": [
+      "DOP-1",
+      "MOD-1",
+      "SER-4"
+    ],
+    "transmitters": [
+      "serotonin",
+      "tyramine"
+    ]
+  },
+  "RIPL": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "RIPR": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "RIR": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "RIS": {
+    "receptors": [
+      "DOP-1",
+      "SER-4"
+    ],
+    "transmitters": []
+  },
+  "RIVL": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "RIVR": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "RMDDL": {
+    "receptors": [
+      "LGC-55",
+      "SER-1"
+    ],
+    "transmitters": []
+  },
+  "RMDDR": {
+    "receptors": [
+      "LGC-55",
+      "SER-1"
+    ],
+    "transmitters": []
+  },
+  "RMDL": {
+    "receptors": [
+      "LGC-55",
+      "SER-1"
+    ],
+    "transmitters": []
+  },
+  "RMDR": {
+    "receptors": [
+      "LGC-55",
+      "SER-1"
+    ],
+    "transmitters": []
+  },
+  "RMDVL": {
+    "receptors": [
+      "LGC-55",
+      "SER-1"
+    ],
+    "transmitters": []
+  },
+  "RMDVR": {
+    "receptors": [
+      "LGC-55",
+      "SER-1"
+    ],
+    "transmitters": []
+  },
+  "RMED": {
+    "receptors": [
+      "MOD-1",
+      "SER-2"
+    ],
+    "transmitters": []
+  },
+  "RMEL": {
+    "receptors": [
+      "MOD-1",
+      "SER-2"
+    ],
+    "transmitters": []
+  },
+  "RMER": {
+    "receptors": [
+      "MOD-1",
+      "SER-2"
+    ],
+    "transmitters": []
+  },
+  "RMEV": {
+    "receptors": [
+      "MOD-1",
+      "SER-2"
+    ],
+    "transmitters": []
+  },
+  "RMFL": {
+    "receptors": [
+      "SER-1"
+    ],
+    "transmitters": []
+  },
+  "RMFR": {
+    "receptors": [
+      "SER-1"
+    ],
+    "transmitters": []
+  },
+  "RMGL": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "RMGR": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "RMHL": {
+    "receptors": [
+      "SER-1"
+    ],
+    "transmitters": []
+  },
+  "RMHR": {
+    "receptors": [
+      "SER-1"
+    ],
+    "transmitters": []
+  },
+  "SAADL": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "SAADR": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "SAAVL": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "SAAVR": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "SABD": {
+    "receptors": [
+      "SER-2"
+    ],
+    "transmitters": []
+  },
+  "SABVL": {
+    "receptors": [
+      "SER-2"
+    ],
+    "transmitters": []
+  },
+  "SABVR": {
+    "receptors": [
+      "SER-2"
+    ],
+    "transmitters": []
+  },
+  "SDQL": {
+    "receptors": [
+      "LGC-55",
+      "SER-2",
+      "TYRA-3"
+    ],
+    "transmitters": []
+  },
+  "SDQR": {
+    "receptors": [
+      "LGC-55",
+      "SER-2",
+      "TYRA-3"
+    ],
+    "transmitters": []
+  },
+  "SIADL": {
+    "receptors": [
+      "DOP-2",
+      "DOP-3",
+      "SER-2",
+      "SER-3",
+      "SER-6"
+    ],
+    "transmitters": []
+  },
+  "SIADR": {
+    "receptors": [
+      "DOP-2",
+      "DOP-3",
+      "SER-2",
+      "SER-3",
+      "SER-6"
+    ],
+    "transmitters": []
+  },
+  "SIAVL": {
+    "receptors": [
+      "DOP-2",
+      "DOP-3",
+      "SER-2",
+      "SER-3",
+      "SER-6"
+    ],
+    "transmitters": []
+  },
+  "SIAVR": {
+    "receptors": [
+      "DOP-2",
+      "DOP-3",
+      "SER-2",
+      "SER-3",
+      "SER-6"
+    ],
+    "transmitters": []
+  },
+  "SIBDL": {
+    "receptors": [
+      "DOP-2"
+    ],
+    "transmitters": []
+  },
+  "SIBDR": {
+    "receptors": [
+      "DOP-2"
+    ],
+    "transmitters": []
+  },
+  "SIBVL": {
+    "receptors": [
+      "DOP-2"
+    ],
+    "transmitters": []
+  },
+  "SIBVR": {
+    "receptors": [
+      "DOP-2"
+    ],
+    "transmitters": []
+  },
+  "SMBDL": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "SMBDR": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "SMBVL": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "SMBVR": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "SMDDL": {
+    "receptors": [
+      "LGC-55"
+    ],
+    "transmitters": []
+  },
+  "SMDDR": {
+    "receptors": [
+      "LGC-55"
+    ],
+    "transmitters": []
+  },
+  "SMDVL": {
+    "receptors": [
+      "LGC-55"
+    ],
+    "transmitters": []
+  },
+  "SMDVR": {
+    "receptors": [
+      "LGC-55"
+    ],
+    "transmitters": []
+  },
+  "URADL": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "URADR": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "URAVL": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "URAVR": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "URBL": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "URBR": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "URXL": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "URXR": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "URYDL": {
+    "receptors": [
+      "SER-1"
+    ],
+    "transmitters": []
+  },
+  "URYDR": {
+    "receptors": [
+      "SER-1"
+    ],
+    "transmitters": []
+  },
+  "URYVL": {
+    "receptors": [
+      "SER-1"
+    ],
+    "transmitters": []
+  },
+  "URYVR": {
+    "receptors": [
+      "SER-1"
+    ],
+    "transmitters": []
+  },
+  "VA01": {
+    "receptors": [
+      "DOP-1",
+      "DOP-3"
+    ],
+    "transmitters": []
+  },
+  "VA02": {
+    "receptors": [
+      "DOP-1",
+      "DOP-3"
+    ],
+    "transmitters": []
+  },
+  "VA03": {
+    "receptors": [
+      "DOP-1",
+      "DOP-3"
+    ],
+    "transmitters": []
+  },
+  "VA04": {
+    "receptors": [
+      "DOP-1",
+      "DOP-3"
+    ],
+    "transmitters": []
+  },
+  "VA05": {
+    "receptors": [
+      "DOP-1",
+      "DOP-3"
+    ],
+    "transmitters": []
+  },
+  "VA06": {
+    "receptors": [
+      "DOP-1",
+      "DOP-3"
+    ],
+    "transmitters": []
+  },
+  "VA07": {
+    "receptors": [
+      "DOP-1",
+      "DOP-3"
+    ],
+    "transmitters": []
+  },
+  "VA08": {
+    "receptors": [
+      "DOP-1",
+      "DOP-3"
+    ],
+    "transmitters": []
+  },
+  "VA09": {
+    "receptors": [
+      "DOP-1",
+      "DOP-3"
+    ],
+    "transmitters": []
+  },
+  "VA10": {
+    "receptors": [
+      "DOP-1",
+      "DOP-3"
+    ],
+    "transmitters": []
+  },
+  "VA11": {
+    "receptors": [
+      "DOP-1",
+      "DOP-3"
+    ],
+    "transmitters": []
+  },
+  "VA12": {
+    "receptors": [
+      "DOP-1",
+      "DOP-3"
+    ],
+    "transmitters": []
+  },
+  "VB01": {
+    "receptors": [
+      "DOP-1",
+      "DOP-3"
+    ],
+    "transmitters": []
+  },
+  "VB02": {
+    "receptors": [
+      "DOP-1",
+      "DOP-3"
+    ],
+    "transmitters": []
+  },
+  "VB03": {
+    "receptors": [
+      "DOP-1",
+      "DOP-3"
+    ],
+    "transmitters": []
+  },
+  "VB04": {
+    "receptors": [
+      "DOP-1",
+      "DOP-3"
+    ],
+    "transmitters": []
+  },
+  "VB05": {
+    "receptors": [
+      "DOP-1",
+      "DOP-3"
+    ],
+    "transmitters": []
+  },
+  "VB06": {
+    "receptors": [
+      "DOP-1",
+      "DOP-3"
+    ],
+    "transmitters": []
+  },
+  "VB07": {
+    "receptors": [
+      "DOP-1",
+      "DOP-3"
+    ],
+    "transmitters": []
+  },
+  "VB08": {
+    "receptors": [
+      "DOP-1",
+      "DOP-3"
+    ],
+    "transmitters": []
+  },
+  "VB09": {
+    "receptors": [
+      "DOP-1",
+      "DOP-3"
+    ],
+    "transmitters": []
+  },
+  "VB10": {
+    "receptors": [
+      "DOP-1",
+      "DOP-3"
+    ],
+    "transmitters": []
+  },
+  "VB11": {
+    "receptors": [
+      "DOP-1",
+      "DOP-3"
+    ],
+    "transmitters": []
+  },
+  "VC01": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "VC02": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "VC03": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "VC04": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "VC05": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "VC06": {
+    "receptors": [],
+    "transmitters": []
+  },
+  "VD01": {
+    "receptors": [
+      "DOP-3",
+      "MOD-1"
+    ],
+    "transmitters": []
+  },
+  "VD02": {
+    "receptors": [
+      "DOP-3",
+      "MOD-1"
+    ],
+    "transmitters": []
+  },
+  "VD03": {
+    "receptors": [
+      "DOP-3",
+      "MOD-1"
+    ],
+    "transmitters": []
+  },
+  "VD04": {
+    "receptors": [
+      "DOP-3",
+      "MOD-1"
+    ],
+    "transmitters": []
+  },
+  "VD05": {
+    "receptors": [
+      "DOP-3",
+      "MOD-1"
+    ],
+    "transmitters": []
+  },
+  "VD06": {
+    "receptors": [
+      "DOP-3",
+      "MOD-1"
+    ],
+    "transmitters": []
+  },
+  "VD07": {
+    "receptors": [
+      "DOP-3",
+      "MOD-1"
+    ],
+    "transmitters": []
+  },
+  "VD08": {
+    "receptors": [
+      "DOP-3",
+      "MOD-1"
+    ],
+    "transmitters": []
+  },
+  "VD09": {
+    "receptors": [
+      "DOP-3",
+      "MOD-1"
+    ],
+    "transmitters": []
+  },
+  "VD10": {
+    "receptors": [
+      "DOP-3",
+      "MOD-1"
+    ],
+    "transmitters": []
+  },
+  "VD11": {
+    "receptors": [
+      "DOP-3",
+      "MOD-1"
+    ],
+    "transmitters": []
+  },
+  "VD12": {
+    "receptors": [
+      "DOP-3",
+      "MOD-1"
+    ],
+    "transmitters": []
+  },
+  "VD13": {
+    "receptors": [
+      "DOP-3",
+      "MOD-1"
+    ],
+    "transmitters": []
+  }
+}

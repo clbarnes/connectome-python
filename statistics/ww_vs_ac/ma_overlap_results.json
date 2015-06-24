@@ -1,0 +1,17 @@
+{
+  "ppn1": {
+    "ac": 5.668838949095011e-05,
+    "description": "proportion of monoamine edges which have a parallel synapse",
+    "ww": 4.083132457671208e-06
+  },
+  "ppn2": {
+    "ac": 1.0,
+    "description": "proportion of synaptic edges, from a node with outward monoamine edges, which have parallel monoamine edges",
+    "ww": 1.0
+  },
+  "ppn3": {
+    "ac": 1.0,
+    "description": "The proportion of receptor-expressing nodes which receive at least one synapse from a node expressing the corresponding monoamine.",
+    "ww": 1.0
+  }
+}

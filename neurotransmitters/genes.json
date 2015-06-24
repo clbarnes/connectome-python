@@ -1,0 +1,17 @@
+{
+    "ACh": {
+        "receptor": ["gar-1", "gar-2", "gar-3", "acm-1", "acm-2", "acm-3", "lev-1", "acr-1", "tmr-1", "unc-29", "unc-21", "unc-56", "tmr-4", "acr-2", "acr-3", "unc-38", "acr-6", "unc-63", "lev-7", "tmr-3", "acr-7", "acr-9", "acr-10", "acr-11", "acr-14", "acr-15", "acr-16", "acr-19", "acr-21", "acr-25", "eat-2", "acr-8", "acr-12", "acr-13", "lev-8", "deg-3", "acr-4", "des-2", "acr-5", "acr-17", "acr-18", "acr-20", "acr-23", "acr-24", "lgc-11", "acr-22", "acc-1", "acc-3", "acc-4", "lgc-46", "lgc-47", "lgc-48", "lgc-49", "cup-4", "lgc-31"],
+        "synthesis": ["cha-1"],
+        "transport": ["unc-17", "cho-1", "snf-6"]
+    },
+    "GABA": {
+        "receptor": ["unc-49", "lgc-36", "lgc-37", "lgc-38", "gab-1", "gbr-1", "ggr-1", "gbr-4", "ggr-2", "gbr-5", "ggr-3", "gbr-6", "lgc-39", "lgc-40", "lgc-41", "lgc-42", "lgc-51", "lgc-52", "lgc-53", "lgc-54", "exp-1", "lgc-35", "gbb-1", "gbb-2"],
+        "synthesis": ["unc-25"],
+        "transport": ["unc-47", "snf-11"]
+    },
+    "Glu": {
+        "receptor": [], #todolol
+        "synthesis": [],
+        "transport": ["eat-4", "glt-1", "glt-3", "glt-4", "glt-5", "glt-6", "glt-7"]
+    },
+}

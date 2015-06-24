@@ -1,0 +1,3291 @@
+Processing Unknown Transmitters:
+--For neuron ADAL: 
+Dopamine - 1
+Membrane - 1
+Unknown - 2
+GABA - 1
+Glutamate - 3
+--END of neuron ADAL
+--For neuron ADAR: 
+Dopamine - 1
+Membrane - 1
+Unknown - 2
+GABA - 1
+Glutamate - 3
+--END of neuron ADAR
+--For neuron ADEL: 
+Glutamate - 2
+--END of neuron ADEL
+--For neuron ADER: 
+Membrane - 1
+--END of neuron ADER
+--For neuron ADFL: 
+Glutamate - 1
+--END of neuron ADFL
+--For neuron ADFR: 
+Glutamate - 1
+Membrane - 3
+Unknown - 2
+--END of neuron ADFR
+--For neuron ADLL: 
+Dopamine - 1
+Membrane - 5
+GABA - 1
+Glutamate - 3
+Unknown - 5
+Capsaicin - 2
+--END of neuron ADLL
+--For neuron ADLR: 
+Dopamine - 1
+Membrane - 4
+GABA - 1
+Glutamate - 3
+Unknown - 4
+Capsaicin - 2
+--END of neuron ADLR
+--For neuron AFDL: 
+GABA - 1
+Glutamate - 3
+Membrane - 1
+--END of neuron AFDL
+--For neuron AFDR: 
+Dopamine - 1
+Capsaicin - 1
+GABA - 1
+Glutamate - 3
+Membrane - 2
+--END of neuron AFDR
+--For neuron AIAL: 
+Unknown - 5
+Dopamine - 1
+Capsaicin - 2
+Membrane - 3
+GABA - 1
+Glutamate - 3
+--END of neuron AIAL
+--For neuron AIAR: 
+Dopamine - 1
+Membrane - 3
+GABA - 1
+Glutamate - 3
+Unknown - 7
+Capsaicin - 2
+--END of neuron AIAR
+--For neuron AIBL: 
+Unknown - 1
+Glutamate - 2
+Dopamine - 2
+Capsaicin - 1
+Membrane - 3
+--END of neuron AIBL
+--For neuron AIBR: 
+Dopamine - 1
+Unknown - 1
+Glutamate - 3
+Membrane - 2
+--END of neuron AIBR
+--For neuron AIML: 
+Dopamine - 1
+GABA - 1
+Membrane - 1
+Unknown - 2
+Glutamate - 3
+Capsaicin - 1
+--END of neuron AIML
+--For neuron AIMR: 
+Membrane - 1
+Unknown - 1
+Capsaicin - 1
+--END of neuron AIMR
+--For neuron AINL: 
+Dopamine - 2
+Capsaicin - 1
+Membrane - 4
+--END of neuron AINL
+--For neuron AINR: 
+Dopamine - 2
+Capsaicin - 1
+GABA - 1
+Glutamate - 3
+Membrane - 5
+--END of neuron AINR
+--For neuron AIYL: 
+Dopamine - 1
+Glutamate - 1
+Membrane - 2
+Capsaicin - 2
+Unknown - 2
+--END of neuron AIYL
+--For neuron AIYR: 
+Dopamine - 1
+Glutamate - 1
+Capsaicin - 2
+Unknown - 1
+--END of neuron AIYR
+--For neuron AIZL: 
+Dopamine - 1
+Capsaicin - 1
+Membrane - 3
+GABA - 2
+Glutamate - 6
+--END of neuron AIZL
+--For neuron AIZR: 
+Unknown - 1
+Capsaicin - 2
+GABA - 2
+Glutamate - 6
+--END of neuron AIZR
+--For neuron ALA: 
+--END of neuron ALA
+--For neuron ALML: 
+Glutamate - 1
+--END of neuron ALML
+--For neuron ALMR: 
+Glutamate - 1
+--END of neuron ALMR
+--For neuron ALNL: 
+--END of neuron ALNL
+--For neuron ALNR: 
+--END of neuron ALNR
+--For neuron AQR: 
+Membrane - 4
+Unknown - 1
+Glutamate - 3
+--END of neuron AQR
+--For neuron AS1: 
+--END of neuron AS1
+--For neuron AS10: 
+--END of neuron AS10
+--For neuron AS11: 
+Membrane - 1
+GABA - 1
+--END of neuron AS11
+--For neuron AS2: 
+--END of neuron AS2
+--For neuron AS3: 
+--END of neuron AS3
+--For neuron AS4: 
+--END of neuron AS4
+--For neuron AS5: 
+--END of neuron AS5
+--For neuron AS6: 
+Membrane - 1
+Unknown - 1
+Glutamate - 2
+--END of neuron AS6
+--For neuron AS7: 
+Membrane - 1
+Unknown - 1
+Glutamate - 2
+--END of neuron AS7
+--For neuron AS8: 
+--END of neuron AS8
+--For neuron AS9: 
+--END of neuron AS9
+--For neuron ASEL: 
+Unknown - 1
+Membrane - 2
+Capsaicin - 1
+GABA - 1
+Glutamate - 4
+--END of neuron ASEL
+--For neuron ASER: 
+Capsaicin - 2
+Unknown - 2
+GABA - 1
+Glutamate - 3
+Membrane - 2
+--END of neuron ASER
+--For neuron ASGL: 
+GABA - 1
+Glutamate - 3
+--END of neuron ASGL
+--For neuron ASGR: 
+GABA - 1
+Glutamate - 3
+--END of neuron ASGR
+--For neuron ASHL: 
+Membrane - 1
+Unknown - 1
+GABA - 1
+Glutamate - 4
+--END of neuron ASHL
+--For neuron ASHR: 
+Membrane - 1
+Unknown - 1
+GABA - 1
+Glutamate - 4
+--END of neuron ASHR
+--For neuron ASIL: 
+Unknown - 4
+Dopamine - 2
+Capsaicin - 1
+Membrane - 3
+GABA - 1
+Glutamate - 3
+--END of neuron ASIL
+--For neuron ASIR: 
+Unknown - 4
+Dopamine - 1
+Capsaicin - 1
+Membrane - 4
+GABA - 1
+Glutamate - 3
+--END of neuron ASIR
+--For neuron ASJL: 
+GABA - 1
+Dopamine - 1
+Glutamate - 2
+Membrane - 1
+Unknown - 2
+Capsaicin - 1
+--END of neuron ASJL
+--For neuron ASJR: 
+GABA - 1
+Dopamine - 1
+Glutamate - 2
+Membrane - 1
+Unknown - 2
+Capsaicin - 1
+--END of neuron ASJR
+--For neuron ASKL: 
+Dopamine - 1
+Unknown - 1
+GABA - 1
+Glutamate - 3
+--END of neuron ASKL
+--For neuron ASKR: 
+GABA - 1
+Dopamine - 1
+Glutamate - 2
+Capsaicin - 2
+Unknown - 2
+--END of neuron ASKR
+--For neuron AUAL: 
+Dopamine - 1
+Glutamate - 1
+Membrane - 1
+Unknown - 2
+--END of neuron AUAL
+--For neuron AUAR: 
+Dopamine - 1
+Glutamate - 1
+Membrane - 3
+Unknown - 2
+--END of neuron AUAR
+--For neuron AVAL: 
+GABA - 1
+Membrane - 1
+Unknown - 1
+Glutamate - 3
+--END of neuron AVAL
+--For neuron AVAR: 
+Membrane - 1
+Unknown - 1
+Glutamate - 2
+--END of neuron AVAR
+--For neuron AVBL: 
+Dopamine - 1
+GABA - 1
+Unknown - 1
+Glutamate - 4
+Membrane - 2
+--END of neuron AVBL
+--For neuron AVBR: 
+Dopamine - 1
+GABA - 1
+Membrane - 1
+Unknown - 1
+Glutamate - 4
+--END of neuron AVBR
+--For neuron AVDL: 
+--END of neuron AVDL
+--For neuron AVDR: 
+Membrane - 3
+Glutamate - 2
+Unknown - 3
+Capsaicin - 2
+--END of neuron AVDR
+--For neuron AVEL: 
+--END of neuron AVEL
+--For neuron AVER: 
+--END of neuron AVER
+--For neuron AVFL: 
+Dopamine - 1
+GABA - 1
+Membrane - 1
+Unknown - 2
+Glutamate - 6
+--END of neuron AVFL
+--For neuron AVFR: 
+Dopamine - 1
+GABA - 1
+Glutamate - 3
+Membrane - 2
+Unknown - 3
+Capsaicin - 1
+--END of neuron AVFR
+--For neuron AVG: 
+GABA - 1
+Dopamine - 1
+Capsaicin - 2
+Membrane - 2
+Unknown - 3
+Glutamate - 2
+--END of neuron AVG
+--For neuron AVHL: 
+Dopamine - 1
+GABA - 1
+Membrane - 2
+Unknown - 4
+Glutamate - 3
+--END of neuron AVHL
+--For neuron AVHR: 
+GABA - 1
+Glutamate - 3
+Membrane - 2
+Unknown - 3
+Capsaicin - 2
+--END of neuron AVHR
+--For neuron AVJL: 
+GABA - 1
+Membrane - 1
+Unknown - 1
+Glutamate - 3
+--END of neuron AVJL
+--For neuron AVJR: 
+GABA - 1
+Dopamine - 1
+Membrane - 1
+Unknown - 2
+Glutamate - 2
+--END of neuron AVJR
+--For neuron AVKL: 
+Acetylcholine - 1
+GABA - 1
+Unknown - 1
+Glutamate - 4
+Membrane - 3
+--END of neuron AVKL
+--For neuron AVKR: 
+GABA - 1
+Dopamine - 1
+Unknown - 1
+Glutamate - 3
+Membrane - 1
+--END of neuron AVKR
+--For neuron AVL: 
+Membrane - 1
+Acetylcholine - 1
+Glutamate - 1
+--END of neuron AVL
+--For neuron AVM: 
+Membrane - 1
+Unknown - 1
+Glutamate - 3
+--END of neuron AVM
+--For neuron AWAL: 
+Unknown - 3
+Dopamine - 1
+Capsaicin - 2
+Membrane - 4
+--END of neuron AWAL
+--For neuron AWAR: 
+Unknown - 3
+Dopamine - 1
+Capsaicin - 2
+Membrane - 5
+--END of neuron AWAR
+--For neuron AWBL: 
+Membrane - 2
+Unknown - 3
+GABA - 1
+Glutamate - 4
+--END of neuron AWBL
+--For neuron AWBR: 
+Membrane - 2
+Unknown - 3
+Glutamate - 3
+Capsaicin - 1
+--END of neuron AWBR
+--For neuron AWCL: 
+Unknown - 1
+Dopamine - 1
+Capsaicin - 1
+Membrane - 4
+GABA - 1
+Glutamate - 4
+--END of neuron AWCL
+--For neuron AWCR: 
+Unknown - 1
+Dopamine - 1
+Capsaicin - 1
+Membrane - 4
+GABA - 1
+Glutamate - 3
+--END of neuron AWCR
+--For neuron BAGL: 
+Dopamine - 1
+Membrane - 1
+GABA - 1
+Glutamate - 4
+--END of neuron BAGL
+--For neuron BAGR: 
+Dopamine - 1
+Glutamate - 1
+Membrane - 1
+--END of neuron BAGR
+--For neuron BDUL: 
+GABA - 1
+Glutamate - 1
+--END of neuron BDUL
+--For neuron BDUR: 
+GABA - 1
+Glutamate - 1
+--END of neuron BDUR
+--For neuron CANL*: 
+--END of neuron CANL*
+--For neuron CANR*: 
+--END of neuron CANR*
+--For neuron CEPDL: 
+Dopamine - 1
+--END of neuron CEPDL
+--For neuron CEPDR: 
+Dopamine - 1
+Glutamate - 1
+--END of neuron CEPDR
+--For neuron CEPVL: 
+Unknown - 2
+Capsaicin - 2
+--END of neuron CEPVL
+--For neuron CEPVR: 
+Acetylcholine - 1
+Capsaicin - 1
+--END of neuron CEPVR
+--For neuron DA1: 
+--END of neuron DA1
+--For neuron DA2: 
+--END of neuron DA2
+--For neuron DA3: 
+--END of neuron DA3
+--For neuron DA4: 
+--END of neuron DA4
+--For neuron DA5: 
+--END of neuron DA5
+--For neuron DA6: 
+--END of neuron DA6
+--For neuron DA7: 
+--END of neuron DA7
+--For neuron DA8: 
+--END of neuron DA8
+--For neuron DA9: 
+Dopamine - 1
+Membrane - 1
+GABA - 1
+--END of neuron DA9
+--For neuron DB1: 
+Membrane - 1
+Unknown - 1
+GABA - 2
+Glutamate - 5
+--END of neuron DB1
+--For neuron DB2: 
+Membrane - 1
+Unknown - 1
+Glutamate - 2
+--END of neuron DB2
+--For neuron DB3: 
+Membrane - 1
+Unknown - 1
+Glutamate - 2
+--END of neuron DB3
+--For neuron DB4: 
+Membrane - 1
+Unknown - 1
+Glutamate - 2
+--END of neuron DB4
+--For neuron DB5: 
+Membrane - 1
+Unknown - 1
+Glutamate - 2
+--END of neuron DB5
+--For neuron DB6: 
+Membrane - 1
+Unknown - 1
+Glutamate - 2
+--END of neuron DB6
+--For neuron DB7: 
+Membrane - 1
+Unknown - 1
+Glutamate - 2
+--END of neuron DB7
+--For neuron DD1: 
+Membrane - 1
+Unknown - 1
+Glutamate - 2
+--END of neuron DD1
+--For neuron DD2: 
+--END of neuron DD2
+--For neuron DD3: 
+--END of neuron DD3
+--For neuron DD4: 
+--END of neuron DD4
+--For neuron DD5: 
+--END of neuron DD5
+--For neuron DD6: 
+--END of neuron DD6
+--For neuron DVA: 
+Unknown - 1
+Glutamate - 3
+Membrane - 2
+--END of neuron DVA
+--For neuron DVB: 
+Dopamine - 1
+Membrane - 1
+GABA - 1
+Glutamate - 1
+--END of neuron DVB
+--For neuron DVC: 
+Dopamine - 1
+Membrane - 1
+Unknown - 1
+GABA - 1
+Glutamate - 3
+--END of neuron DVC
+--For neuron FLPL: 
+Membrane - 1
+Unknown - 1
+GABA - 2
+Glutamate - 5
+--END of neuron FLPL
+--For neuron FLPR: 
+Membrane - 1
+Unknown - 1
+GABA - 2
+Glutamate - 5
+--END of neuron FLPR
+--For neuron HSNL: 
+Membrane - 1
+Unknown - 3
+Capsaicin - 1
+--END of neuron HSNL
+--For neuron HSNL: 
+Membrane - 1
+Unknown - 3
+Capsaicin - 1
+--END of neuron HSNL
+--For neuron HSNR: 
+Dopamine - 1
+Membrane - 1
+Unknown - 3
+GABA - 1
+Glutamate - 4
+--END of neuron HSNR
+--For neuron HSNR: 
+Dopamine - 1
+Membrane - 1
+Unknown - 3
+GABA - 1
+Glutamate - 4
+--END of neuron HSNR
+--For neuron I1L: 
+Unknown - 1
+Glutamate - 1
+--END of neuron I1L
+--For neuron I1R: 
+Unknown - 1
+Glutamate - 1
+--END of neuron I1R
+--For neuron I2L: 
+--END of neuron I2L
+--For neuron I2R: 
+--END of neuron I2R
+--For neuron I3: 
+--END of neuron I3
+--For neuron I4: 
+Acetylcholine - 1
+Glutamate - 2
+--END of neuron I4
+--For neuron I5: 
+--END of neuron I5
+--For neuron I6: 
+Unknown - 1
+Acetylcholine - 1
+Glutamate - 2
+--END of neuron I6
+--For neuron IL1DL: 
+--END of neuron IL1DL
+--For neuron IL1DR: 
+--END of neuron IL1DR
+--For neuron IL1L: 
+--END of neuron IL1L
+--For neuron IL1R: 
+Membrane - 2
+--END of neuron IL1R
+--For neuron IL1VL: 
+--END of neuron IL1VL
+--For neuron IL1VR: 
+Acetylcholine - 1
+--END of neuron IL1VR
+--For neuron IL2DL: 
+Dopamine - 1
+--END of neuron IL2DL
+--For neuron IL2DR: 
+--END of neuron IL2DR
+--For neuron IL2L: 
+Membrane - 2
+--END of neuron IL2L
+--For neuron IL2R: 
+Membrane - 2
+--END of neuron IL2R
+--For neuron IL2VL: 
+Glutamate - 1
+Membrane - 1
+--END of neuron IL2VL
+--For neuron IL2VR: 
+Membrane - 2
+Glutamate - 1
+--END of neuron IL2VR
+--For neuron LUAL: 
+--END of neuron LUAL
+--For neuron LUAR: 
+Membrane - 2
+--END of neuron LUAR
+--For neuron M1: 
+Unknown - 1
+Acetylcholine - 1
+Glutamate - 2
+--END of neuron M1
+--For neuron M2L: 
+Unknown - 1
+Glutamate - 1
+--END of neuron M2L
+--For neuron M2R: 
+Unknown - 1
+Glutamate - 1
+--END of neuron M2R
+--For neuron M3L: 
+--END of neuron M3L
+--For neuron M3R: 
+Unknown - 1
+Glutamate - 1
+--END of neuron M3R
+--For neuron M4: 
+Unknown - 1
+Glutamate - 1
+--END of neuron M4
+--For neuron M5: 
+--END of neuron M5
+--For neuron MCL: 
+Unknown - 1
+Acetylcholine - 1
+Glutamate - 2
+--END of neuron MCL
+--For neuron MCR: 
+Unknown - 1
+Glutamate - 1
+--END of neuron MCR
+--For neuron MI: 
+Unknown - 1
+Glutamate - 1
+--END of neuron MI
+--For neuron NSML: 
+Unknown - 1
+Acetylcholine - 1
+Glutamate - 2
+--END of neuron NSML
+--For neuron NSML: 
+Unknown - 1
+Acetylcholine - 1
+Glutamate - 2
+--END of neuron NSML
+--For neuron NSMR: 
+Unknown - 1
+Acetylcholine - 1
+Glutamate - 2
+--END of neuron NSMR
+--For neuron NSMR: 
+Unknown - 1
+Acetylcholine - 1
+Glutamate - 2
+--END of neuron NSMR
+--For neuron OLLL: 
+Dopamine - 1
+--END of neuron OLLL
+--For neuron OLLR: 
+Dopamine - 1
+--END of neuron OLLR
+--For neuron OLQDL: 
+Dopamine - 1
+--END of neuron OLQDL
+--For neuron OLQDR: 
+Dopamine - 1
+--END of neuron OLQDR
+--For neuron OLQVL: 
+Dopamine - 1
+Acetylcholine - 1
+Unknown - 2
+Capsaicin - 2
+--END of neuron OLQVL
+--For neuron OLQVR: 
+Dopamine - 1
+--END of neuron OLQVR
+--For neuron PDA: 
+--END of neuron PDA
+--For neuron PDB: 
+--END of neuron PDB
+--For neuron PDEL: 
+Membrane - 1
+Acetylcholine - 1
+GABA - 1
+Glutamate - 3
+--END of neuron PDEL
+--For neuron PDER: 
+Membrane - 1
+Acetylcholine - 1
+GABA - 1
+Glutamate - 3
+--END of neuron PDER
+--For neuron PHAL: 
+Dopamine - 1
+Unknown - 2
+Capsaicin - 2
+Membrane - 1
+GABA - 2
+Glutamate - 6
+--END of neuron PHAL
+--For neuron PHAR: 
+Dopamine - 1
+Unknown - 2
+Capsaicin - 2
+Membrane - 1
+GABA - 2
+Glutamate - 6
+--END of neuron PHAR
+--For neuron PHBL: 
+--END of neuron PHBL
+--For neuron PHBR: 
+GABA - 1
+Glutamate - 1
+--END of neuron PHBR
+--For neuron PHCL: 
+Dopamine - 1
+GABA - 1
+Glutamate - 3
+--END of neuron PHCL
+--For neuron PHCR: 
+Dopamine - 1
+GABA - 2
+Glutamate - 3
+--END of neuron PHCR
+--For neuron PLML: 
+Dopamine - 1
+--END of neuron PLML
+--For neuron PLMR: 
+GABA - 1
+Glutamate - 3
+--END of neuron PLMR
+--For neuron PLNL: 
+--END of neuron PLNL
+--For neuron PLNR: 
+--END of neuron PLNR
+--For neuron PQR: 
+Glutamate - 4
+--END of neuron PQR
+--For neuron PVCL: 
+GABA - 1
+Membrane - 1
+Unknown - 1
+Glutamate - 4
+--END of neuron PVCL
+--For neuron PVCR: 
+Dopamine - 1
+Unknown - 1
+Glutamate - 2
+Membrane - 2
+--END of neuron PVCR
+--For neuron PVDL: 
+--END of neuron PVDL
+--For neuron PVDR: 
+GABA - 1
+Glutamate - 3
+--END of neuron PVDR
+--For neuron PVM: 
+GABA - 1
+Glutamate - 3
+--END of neuron PVM
+--For neuron PVNL: 
+GABA - 1
+Dopamine - 1
+Membrane - 3
+Unknown - 2
+Glutamate - 6
+--END of neuron PVNL
+--For neuron PVNR: 
+Membrane - 3
+Unknown - 1
+Glutamate - 3
+--END of neuron PVNR
+--For neuron PVPL: 
+Capsaicin - 2
+GABA - 1
+Unknown - 2
+Glutamate - 3
+Membrane - 4
+--END of neuron PVPL
+--For neuron PVPR: 
+Dopamine - 1
+GABA - 1
+Unknown - 2
+Glutamate - 4
+Membrane - 2
+--END of neuron PVPR
+--For neuron PVQL: 
+GABA - 1
+Dopamine - 1
+Glutamate - 2
+Membrane - 1
+Unknown - 2
+Capsaicin - 1
+--END of neuron PVQL
+--For neuron PVQR: 
+GABA - 1
+Unknown - 3
+Glutamate - 2
+Dopamine - 2
+Capsaicin - 2
+Membrane - 3
+--END of neuron PVQR
+--For neuron PVR: 
+GABA - 1
+Membrane - 1
+Unknown - 1
+Glutamate - 4
+--END of neuron PVR
+--For neuron PVT: 
+Dopamine - 1
+GABA - 1
+Glutamate - 3
+--END of neuron PVT
+--For neuron PVWL: 
+--END of neuron PVWL
+--For neuron PVWR: 
+--END of neuron PVWR
+--For neuron RIAL: 
+Glutamate - 1
+--END of neuron RIAL
+--For neuron RIAR: 
+Glutamate - 1
+--END of neuron RIAR
+--For neuron RIBL: 
+Dopamine - 1
+Membrane - 2
+Unknown - 1
+GABA - 1
+Glutamate - 4
+--END of neuron RIBL
+--For neuron RIBR: 
+Dopamine - 1
+Membrane - 2
+Unknown - 1
+GABA - 1
+Glutamate - 4
+--END of neuron RIBR
+--For neuron RICL: 
+Membrane - 1
+Unknown - 2
+--END of neuron RICL
+--For neuron RICR: 
+--END of neuron RICR
+--For neuron RID: 
+Unknown - 1
+Glutamate - 2
+Membrane - 2
+--END of neuron RID
+--For neuron RIFL: 
+GABA - 1
+Membrane - 1
+Unknown - 1
+Glutamate - 6
+--END of neuron RIFL
+--For neuron RIFR: 
+GABA - 1
+Membrane - 1
+Unknown - 1
+Glutamate - 6
+--END of neuron RIFR
+--For neuron RIGL: 
+Dopamine - 1
+Membrane - 2
+GABA - 1
+Glutamate - 3
+--END of neuron RIGL
+--For neuron RIGR: 
+Dopamine - 1
+Membrane - 2
+GABA - 1
+Glutamate - 3
+--END of neuron RIGR
+--For neuron RIH: 
+Dopamine - 1
+Glutamate - 1
+Membrane - 1
+--END of neuron RIH
+--For neuron RIML: 
+Dopamine - 1
+Membrane - 1
+Unknown - 1
+GABA - 1
+Glutamate - 3
+--END of neuron RIML
+--For neuron RIML: 
+Dopamine - 1
+Membrane - 1
+Unknown - 1
+GABA - 1
+Glutamate - 3
+--END of neuron RIML
+--For neuron RIMR: 
+Dopamine - 1
+Membrane - 1
+Unknown - 1
+GABA - 1
+Glutamate - 3
+--END of neuron RIMR
+--For neuron RIMR: 
+Dopamine - 1
+Membrane - 1
+Unknown - 1
+GABA - 1
+Glutamate - 3
+--END of neuron RIMR
+--For neuron RIPL: 
+--END of neuron RIPL
+--For neuron RIPR: 
+--END of neuron RIPR
+--For neuron RIR: 
+GABA - 1
+Glutamate - 4
+Unknown - 2
+Membrane - 5
+--END of neuron RIR
+--For neuron RIS: 
+Dopamine - 1
+GABA - 1
+Glutamate - 3
+--END of neuron RIS
+--For neuron RIVL: 
+GABA - 1
+Glutamate - 4
+--END of neuron RIVL
+--For neuron RIVR: 
+GABA - 1
+Glutamate - 4
+--END of neuron RIVR
+--For neuron RMDDL: 
+--END of neuron RMDDL
+--For neuron RMDDR: 
+--END of neuron RMDDR
+--For neuron RMDL: 
+Glutamate - 1
+--END of neuron RMDL
+--For neuron RMDR: 
+Glutamate - 1
+--END of neuron RMDR
+--For neuron RMDVL: 
+--END of neuron RMDVL
+--For neuron RMDVR: 
+--END of neuron RMDVR
+--For neuron RMED: 
+Dopamine - 1
+--END of neuron RMED
+--For neuron RMEL: 
+--END of neuron RMEL
+--For neuron RMER: 
+--END of neuron RMER
+--For neuron RMEV: 
+--END of neuron RMEV
+--For neuron RMFL: 
+--END of neuron RMFL
+--For neuron RMFR: 
+--END of neuron RMFR
+--For neuron RMGL: 
+Membrane - 4
+GABA - 1
+Glutamate - 3
+Unknown - 5
+Capsaicin - 2
+--END of neuron RMGL
+--For neuron RMGR: 
+Membrane - 4
+Unknown - 3
+Glutamate - 2
+--END of neuron RMGR
+--For neuron RMHL: 
+--END of neuron RMHL
+--For neuron RMHR: 
+--END of neuron RMHR
+--For neuron SAADL: 
+GABA - 1
+Glutamate - 3
+--END of neuron SAADL
+--For neuron SAADR: 
+GABA - 1
+Glutamate - 3
+--END of neuron SAADR
+--For neuron SAAVL: 
+GABA - 1
+Glutamate - 3
+--END of neuron SAAVL
+--For neuron SAAVR: 
+--END of neuron SAAVR
+--For neuron SABD: 
+--END of neuron SABD
+--For neuron SABVL: 
+--END of neuron SABVL
+--For neuron SABVR: 
+--END of neuron SABVR
+--For neuron SDQL: 
+GABA - 1
+Glutamate - 3
+--END of neuron SDQL
+--For neuron SDQR: 
+Membrane - 1
+GABA - 2
+Glutamate - 5
+Unknown - 3
+Capsaicin - 2
+--END of neuron SDQR
+--For neuron SIADL: 
+Dopamine - 1
+--END of neuron SIADL
+--For neuron SIADR: 
+Dopamine - 1
+--END of neuron SIADR
+--For neuron SIAVL: 
+Dopamine - 1
+--END of neuron SIAVL
+--For neuron SIAVR: 
+Dopamine - 1
+--END of neuron SIAVR
+--For neuron SIBDL: 
+Dopamine - 1
+--END of neuron SIBDL
+--For neuron SIBDR: 
+Dopamine - 1
+--END of neuron SIBDR
+--For neuron SIBVL: 
+Dopamine - 1
+Membrane - 1
+Unknown - 1
+Glutamate - 2
+--END of neuron SIBVL
+--For neuron SIBVR: 
+Dopamine - 1
+--END of neuron SIBVR
+--For neuron SMBDL: 
+Dopamine - 1
+--END of neuron SMBDL
+--For neuron SMBDR: 
+Dopamine - 1
+--END of neuron SMBDR
+--For neuron SMBVL: 
+--END of neuron SMBVL
+--For neuron SMBVR: 
+--END of neuron SMBVR
+--For neuron SMDDL: 
+Dopamine - 1
+Glutamate - 1
+--END of neuron SMDDL
+--For neuron SMDDR: 
+Dopamine - 1
+Glutamate - 1
+--END of neuron SMDDR
+--For neuron SMDVL: 
+Dopamine - 1
+Glutamate - 1
+--END of neuron SMDVL
+--For neuron SMDVR: 
+Dopamine - 1
+Glutamate - 1
+--END of neuron SMDVR
+--For neuron URADL: 
+--END of neuron URADL
+--For neuron URADR: 
+--END of neuron URADR
+--For neuron URAVL: 
+--END of neuron URAVL
+--For neuron URAVR: 
+--END of neuron URAVR
+--For neuron URBL: 
+Membrane - 3
+Unknown - 1
+Glutamate - 2
+--END of neuron URBL
+--For neuron URBR: 
+Membrane - 3
+Unknown - 1
+Glutamate - 2
+--END of neuron URBR
+--For neuron URXL: 
+Membrane - 1
+Unknown - 1
+Glutamate - 3
+--END of neuron URXL
+--For neuron URXR: 
+Membrane - 1
+Unknown - 1
+Glutamate - 3
+--END of neuron URXR
+--For neuron URYDL: 
+Dopamine - 1
+--END of neuron URYDL
+--For neuron URYDR: 
+Dopamine - 1
+--END of neuron URYDR
+--For neuron URYVL: 
+Dopamine - 1
+Membrane - 1
+Unknown - 1
+Glutamate - 3
+--END of neuron URYVL
+--For neuron URYVR: 
+Dopamine - 1
+Glutamate - 1
+--END of neuron URYVR
+--For neuron VA1: 
+--END of neuron VA1
+--For neuron VA10: 
+--END of neuron VA10
+--For neuron VA11: 
+--END of neuron VA11
+--For neuron VA12: 
+Dopamine - 1
+--END of neuron VA12
+--For neuron VA2: 
+--END of neuron VA2
+--For neuron VA3: 
+--END of neuron VA3
+--For neuron VA4: 
+--END of neuron VA4
+--For neuron VA5: 
+--END of neuron VA5
+--For neuron VA6: 
+--END of neuron VA6
+--For neuron VA7: 
+--END of neuron VA7
+--For neuron VA8: 
+Membrane - 1
+Unknown - 1
+Glutamate - 2
+--END of neuron VA8
+--For neuron VA9: 
+Membrane - 1
+Unknown - 1
+Glutamate - 2
+--END of neuron VA9
+--For neuron VB1: 
+Membrane - 1
+Unknown - 1
+GABA - 2
+Glutamate - 5
+--END of neuron VB1
+--For neuron VB10: 
+Membrane - 1
+Unknown - 1
+Glutamate - 2
+--END of neuron VB10
+--For neuron VB11: 
+Membrane - 1
+Unknown - 1
+Glutamate - 2
+--END of neuron VB11
+--For neuron VB2: 
+Membrane - 1
+Unknown - 1
+Glutamate - 2
+--END of neuron VB2
+--For neuron VB3: 
+Membrane - 1
+Unknown - 1
+Glutamate - 2
+--END of neuron VB3
+--For neuron VB4: 
+Membrane - 1
+Unknown - 1
+Glutamate - 2
+--END of neuron VB4
+--For neuron VB5: 
+Membrane - 1
+Unknown - 1
+Glutamate - 2
+--END of neuron VB5
+--For neuron VB6: 
+Membrane - 1
+Unknown - 1
+Glutamate - 2
+--END of neuron VB6
+--For neuron VB7: 
+Membrane - 1
+Unknown - 1
+Glutamate - 2
+--END of neuron VB7
+--For neuron VB8: 
+Membrane - 1
+Unknown - 1
+Glutamate - 2
+--END of neuron VB8
+--For neuron VB9: 
+Membrane - 1
+Unknown - 1
+Glutamate - 2
+--END of neuron VB9
+--For neuron VC1: 
+Glutamate - 1
+--END of neuron VC1
+--For neuron VC1: 
+Glutamate - 1
+--END of neuron VC1
+--For neuron VC2: 
+GABA - 1
+Dopamine - 1
+Unknown - 1
+Glutamate - 2
+--END of neuron VC2
+--For neuron VC2: 
+GABA - 1
+Dopamine - 1
+Unknown - 1
+Glutamate - 2
+--END of neuron VC2
+--For neuron VC3: 
+GABA - 1
+Dopamine - 1
+Unknown - 1
+Glutamate - 2
+--END of neuron VC3
+--For neuron VC3: 
+GABA - 1
+Dopamine - 1
+Unknown - 1
+Glutamate - 2
+--END of neuron VC3
+--For neuron VC4: 
+GABA - 1
+Membrane - 1
+Unknown - 1
+Glutamate - 3
+--END of neuron VC4
+--For neuron VC4: 
+GABA - 1
+Membrane - 1
+Unknown - 1
+Glutamate - 3
+--END of neuron VC4
+--For neuron VC5: 
+Glutamate - 1
+--END of neuron VC5
+--For neuron VC5: 
+Glutamate - 1
+--END of neuron VC5
+--For neuron VC6: 
+--END of neuron VC6
+--For neuron VC6: 
+--END of neuron VC6
+--For neuron VD1: 
+Glutamate - 1
+--END of neuron VD1
+--For neuron VD10: 
+Membrane - 1
+Unknown - 1
+Glutamate - 2
+--END of neuron VD10
+--For neuron VD11: 
+--END of neuron VD11
+--For neuron VD12: 
+--END of neuron VD12
+--For neuron VD13: 
+--END of neuron VD13
+--For neuron VD2: 
+--END of neuron VD2
+--For neuron VD3: 
+--END of neuron VD3
+--For neuron VD4: 
+--END of neuron VD4
+--For neuron VD5: 
+--END of neuron VD5
+--For neuron VD6: 
+--END of neuron VD6
+--For neuron VD7: 
+--END of neuron VD7
+--For neuron VD8: 
+--END of neuron VD8
+--For neuron VD9: 
+--END of neuron VD9
+
+Processing Unknown Receptors:
+--For neuron ADAL: 
+SER7b  - 1
+SER#4  - 1
+SER#2  - 1
+NMR#2 - 1
+NMR#1 - 1
+GLR#8 - 1
+GLR#7 - 1
+GLR#6 - 1
+GLR#5 - 1
+GLR#4 - 1
+GLR#3 - 1
+GLR#2 - 1
+GLR#1 - 1
+AVR#15 - 1
+AVR#14 - 1
+--END of neuron ADAL
+--For neuron ADAR: 
+SER7b  - 1
+SER#4  - 1
+SER#2  - 1
+NMR#2 - 1
+NMR#1 - 1
+GLR#8 - 1
+GLR#7 - 1
+GLR#6 - 1
+GLR#5 - 1
+GLR#4 - 1
+GLR#3 - 1
+GLR#2 - 1
+GLR#1 - 1
+AVR#15 - 1
+AVR#14 - 1
+--END of neuron ADAR
+--For neuron ADEL: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+SER7b  - 1
+SER#4  - 1
+SER#2  - 1
+GGR#3  - 1
+GGR#2 - 1
+GGR#1 - 1
+EXP#1 - 1
+NMR#2 - 1
+NMR#1 - 1
+GLR#8 - 1
+GLR#7 - 1
+GLR#6 - 1
+GLR#5 - 1
+GLR#4 - 1
+GLR#3 - 1
+GLR#2 - 1
+GLR#1 - 1
+AVR#15 - 1
+AVR#14 - 1
+--END of neuron ADEL
+--For neuron ADER: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+SER7b  - 1
+SER#4  - 1
+SER#2  - 1
+NMR#2 - 1
+NMR#1 - 1
+GLR#8 - 1
+GLR#7 - 1
+GLR#6 - 1
+GLR#5 - 1
+GLR#4 - 1
+GLR#3 - 1
+GLR#2 - 1
+GLR#1 - 1
+AVR#15 - 1
+AVR#14 - 1
+--END of neuron ADER
+--For neuron ADFL: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+NMR#2 - 1
+NMR#1 - 1
+GLR#8 - 1
+GLR#7 - 1
+GLR#6 - 1
+GLR#5 - 1
+GLR#4 - 1
+GLR#3 - 1
+GLR#2 - 1
+GLR#1 - 1
+AVR#15 - 1
+AVR#14 - 1
+--END of neuron ADFL
+--For neuron ADFR: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+NMR#2 - 1
+NMR#1 - 1
+GLR#8 - 1
+GLR#7 - 1
+GLR#6 - 1
+GLR#5 - 1
+GLR#4 - 1
+GLR#3 - 1
+GLR#2 - 1
+GLR#1 - 1
+AVR#15 - 1
+AVR#14 - 1
+--END of neuron ADFR
+--For neuron ADLL: 
+SER7b  - 1
+SER#4  - 1
+SER#2  - 1
+--END of neuron ADLL
+--For neuron ADLR: 
+--END of neuron ADLR
+--For neuron AFDL: 
+NMR#2 - 1
+NMR#1 - 1
+GLR#8 - 1
+GLR#7 - 1
+GLR#6 - 1
+GLR#5 - 1
+GLR#4 - 1
+GLR#3 - 1
+GLR#2 - 1
+GLR#1 - 1
+AVR#15 - 1
+AVR#14 - 1
+--END of neuron AFDL
+--For neuron AFDR: 
+--END of neuron AFDR
+--For neuron AIAL: 
+SER7b  - 1
+SER#4  - 1
+SER#2  - 1
+NMR#2 - 1
+NMR#1 - 1
+GLR#8 - 1
+GLR#7 - 1
+GLR#6 - 1
+GLR#5 - 1
+GLR#4 - 1
+GLR#3 - 1
+GLR#2 - 1
+GLR#1 - 1
+AVR#15 - 1
+AVR#14 - 1
+--END of neuron AIAL
+--For neuron AIAR: 
+NMR#2 - 1
+NMR#1 - 1
+GLR#8 - 1
+GLR#7 - 1
+GLR#6 - 1
+GLR#5 - 1
+GLR#4 - 1
+GLR#3 - 1
+GLR#2 - 1
+GLR#1 - 1
+AVR#15 - 1
+AVR#14 - 1
+--END of neuron AIAR
+--For neuron AIBL: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron AIBL
+--For neuron AIBR: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron AIBR
+--For neuron AIML: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron AIML
+--For neuron AIMR: 
+--END of neuron AIMR
+--For neuron AINL: 
+NMR#2 - 1
+NMR#1 - 1
+GLR#8 - 1
+GLR#7 - 1
+GLR#6 - 1
+GLR#5 - 1
+GLR#4 - 1
+GLR#3 - 1
+GLR#2 - 1
+GLR#1 - 1
+AVR#15 - 1
+AVR#14 - 1
+--END of neuron AINL
+--For neuron AINR: 
+NMR#2 - 1
+NMR#1 - 1
+GLR#8 - 1
+GLR#7 - 1
+GLR#6 - 1
+GLR#5 - 1
+GLR#4 - 1
+GLR#3 - 1
+GLR#2 - 1
+GLR#1 - 1
+AVR#15 - 1
+AVR#14 - 1
+--END of neuron AINR
+--For neuron AIYL: 
+--END of neuron AIYL
+--For neuron AIYR: 
+--END of neuron AIYR
+--For neuron AIZL: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron AIZL
+--For neuron AIZR: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron AIZR
+--For neuron ALA: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron ALA
+--For neuron ALML: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron ALML
+--For neuron ALMR: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron ALMR
+--For neuron ALNL: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron ALNL
+--For neuron ALNR: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron ALNR
+--For neuron AQR: 
+--END of neuron AQR
+--For neuron AS1: 
+--END of neuron AS1
+--For neuron AS10: 
+--END of neuron AS10
+--For neuron AS11: 
+--END of neuron AS11
+--For neuron AS2: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron AS2
+--For neuron AS3: 
+--END of neuron AS3
+--For neuron AS4: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron AS4
+--For neuron AS5: 
+--END of neuron AS5
+--For neuron AS6: 
+--END of neuron AS6
+--For neuron AS7: 
+--END of neuron AS7
+--For neuron AS8: 
+--END of neuron AS8
+--For neuron AS9: 
+GGR#3  - 1
+GGR#2 - 1
+GGR#1 - 1
+EXP#1 - 1
+--END of neuron AS9
+--For neuron ASEL: 
+--END of neuron ASEL
+--For neuron ASER: 
+--END of neuron ASER
+--For neuron ASGL: 
+NMR#2 - 1
+NMR#1 - 1
+GLR#8 - 1
+GLR#7 - 1
+GLR#6 - 1
+GLR#5 - 1
+GLR#4 - 1
+GLR#3 - 1
+GLR#2 - 1
+GLR#1 - 1
+AVR#15 - 1
+AVR#14 - 1
+--END of neuron ASGL
+--For neuron ASGR: 
+NMR#2 - 1
+NMR#1 - 1
+GLR#8 - 1
+GLR#7 - 1
+GLR#6 - 1
+GLR#5 - 1
+GLR#4 - 1
+GLR#3 - 1
+GLR#2 - 1
+GLR#1 - 1
+AVR#15 - 1
+AVR#14 - 1
+--END of neuron ASGR
+--For neuron ASHL: 
+SER7b  - 1
+SER#4  - 1
+SER#2  - 1
+NMR#2 - 1
+NMR#1 - 1
+GLR#8 - 1
+GLR#7 - 1
+GLR#6 - 1
+GLR#5 - 1
+GLR#4 - 1
+GLR#3 - 1
+GLR#2 - 1
+GLR#1 - 1
+AVR#15 - 1
+AVR#14 - 1
+--END of neuron ASHL
+--For neuron ASHR: 
+NMR#2 - 1
+NMR#1 - 1
+GLR#8 - 1
+GLR#7 - 1
+GLR#6 - 1
+GLR#5 - 1
+GLR#4 - 1
+GLR#3 - 1
+GLR#2 - 1
+GLR#1 - 1
+AVR#15 - 1
+AVR#14 - 1
+--END of neuron ASHR
+--For neuron ASIL: 
+--END of neuron ASIL
+--For neuron ASIR: 
+--END of neuron ASIR
+--For neuron ASJL: 
+--END of neuron ASJL
+--For neuron ASJR: 
+--END of neuron ASJR
+--For neuron ASKL: 
+SER7b  - 1
+SER#4  - 1
+SER#2  - 1
+--END of neuron ASKL
+--For neuron ASKR: 
+SER7b  - 1
+SER#4  - 1
+SER#2  - 1
+--END of neuron ASKR
+--For neuron AUAL: 
+NMR#2 - 1
+NMR#1 - 1
+GLR#8 - 1
+GLR#7 - 1
+GLR#6 - 1
+GLR#5 - 1
+GLR#4 - 1
+GLR#3 - 1
+GLR#2 - 1
+GLR#1 - 1
+AVR#15 - 1
+AVR#14 - 1
+--END of neuron AUAL
+--For neuron AUAR: 
+NMR#2 - 1
+NMR#1 - 1
+GLR#8 - 1
+GLR#7 - 1
+GLR#6 - 1
+GLR#5 - 1
+GLR#4 - 1
+GLR#3 - 1
+GLR#2 - 1
+GLR#1 - 1
+AVR#15 - 1
+AVR#14 - 1
+--END of neuron AUAR
+--For neuron AVAL: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron AVAL
+--For neuron AVAR: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron AVAR
+--For neuron AVBL: 
+GGR#3  - 1
+GGR#2 - 1
+GGR#1 - 1
+EXP#1 - 1
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron AVBL
+--For neuron AVBR: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron AVBR
+--For neuron AVDL: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+NMR#2 - 1
+NMR#1 - 1
+GLR#8 - 1
+GLR#7 - 1
+GLR#6 - 1
+GLR#5 - 1
+GLR#4 - 1
+GLR#3 - 1
+GLR#2 - 1
+GLR#1 - 1
+AVR#15 - 1
+AVR#14 - 1
+--END of neuron AVDL
+--For neuron AVDR: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+NMR#2 - 1
+NMR#1 - 1
+GLR#8 - 1
+GLR#7 - 1
+GLR#6 - 1
+GLR#5 - 1
+GLR#4 - 1
+GLR#3 - 1
+GLR#2 - 1
+GLR#1 - 1
+AVR#15 - 1
+AVR#14 - 1
+--END of neuron AVDR
+--For neuron AVEL: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron AVEL
+--For neuron AVER: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron AVER
+--For neuron AVFL: 
+GGR#3  - 1
+GGR#2 - 1
+GGR#1 - 1
+EXP#1 - 1
+--END of neuron AVFL
+--For neuron AVFR: 
+--END of neuron AVFR
+--For neuron AVG: 
+GGR#3  - 1
+GGR#2 - 1
+GGR#1 - 1
+EXP#1 - 1
+--END of neuron AVG
+--For neuron AVHL: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron AVHL
+--For neuron AVHR: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron AVHR
+--For neuron AVJL: 
+--END of neuron AVJL
+--For neuron AVJR: 
+--END of neuron AVJR
+--For neuron AVKL: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron AVKL
+--For neuron AVKR: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron AVKR
+--For neuron AVL: 
+GGR#3  - 1
+GGR#2 - 1
+GGR#1 - 1
+EXP#1 - 1
+--END of neuron AVL
+--For neuron AVM: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron AVM
+--For neuron AWAL: 
+NMR#2 - 1
+NMR#1 - 1
+GLR#8 - 1
+GLR#7 - 1
+GLR#6 - 1
+GLR#5 - 1
+GLR#4 - 1
+GLR#3 - 1
+GLR#2 - 1
+GLR#1 - 1
+AVR#15 - 1
+AVR#14 - 1
+--END of neuron AWAL
+--For neuron AWAR: 
+--END of neuron AWAR
+--For neuron AWBL: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron AWBL
+--For neuron AWBR: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron AWBR
+--For neuron AWCL: 
+--END of neuron AWCL
+--For neuron AWCR: 
+--END of neuron AWCR
+--For neuron BAGL: 
+--END of neuron BAGL
+--For neuron BAGR: 
+--END of neuron BAGR
+--For neuron BDUL: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron BDUL
+--For neuron BDUR: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron BDUR
+--For neuron CANL*: 
+--END of neuron CANL*
+--For neuron CANR*: 
+--END of neuron CANR*
+--For neuron CEPDL: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+SER7b  - 1
+SER#4  - 1
+SER#2  - 1
+--END of neuron CEPDL
+--For neuron CEPDR: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+SER7b  - 1
+SER#4  - 1
+SER#2  - 1
+--END of neuron CEPDR
+--For neuron CEPVL: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+SER7b  - 1
+SER#4  - 1
+SER#2  - 1
+--END of neuron CEPVL
+--For neuron CEPVR: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+SER7b  - 1
+SER#4  - 1
+SER#2  - 1
+--END of neuron CEPVR
+--For neuron DA1: 
+--END of neuron DA1
+--For neuron DA2: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron DA2
+--For neuron DA3: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron DA3
+--For neuron DA4: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron DA4
+--For neuron DA5: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron DA5
+--For neuron DA6: 
+--END of neuron DA6
+--For neuron DA7: 
+--END of neuron DA7
+--For neuron DA8: 
+--END of neuron DA8
+--For neuron DA9: 
+--END of neuron DA9
+--For neuron DB1: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron DB1
+--For neuron DB2: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron DB2
+--For neuron DB3: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron DB3
+--For neuron DB4: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron DB4
+--For neuron DB5: 
+--END of neuron DB5
+--For neuron DB6: 
+--END of neuron DB6
+--For neuron DB7: 
+--END of neuron DB7
+--For neuron DD1: 
+--END of neuron DD1
+--For neuron DD2: 
+--END of neuron DD2
+--For neuron DD3: 
+--END of neuron DD3
+--For neuron DD4: 
+--END of neuron DD4
+--For neuron DD5: 
+--END of neuron DD5
+--For neuron DD6: 
+--END of neuron DD6
+--For neuron DVA: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron DVA
+--For neuron DVB: 
+GGR#3  - 1
+GGR#2 - 1
+GGR#1 - 1
+EXP#1 - 1
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron DVB
+--For neuron DVC: 
+GGR#3  - 1
+GGR#2 - 1
+GGR#1 - 1
+EXP#1 - 1
+--END of neuron DVC
+--For neuron FLPL: 
+SER7b  - 1
+SER#4  - 1
+SER#2  - 1
+--END of neuron FLPL
+--For neuron FLPR: 
+--END of neuron FLPR
+--For neuron HSNL: 
+--END of neuron HSNL
+--For neuron HSNL: 
+--END of neuron HSNL
+--For neuron HSNR: 
+GGR#3  - 1
+GGR#2 - 1
+GGR#1 - 1
+EXP#1 - 1
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron HSNR
+--For neuron HSNR: 
+GGR#3  - 1
+GGR#2 - 1
+GGR#1 - 1
+EXP#1 - 1
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron HSNR
+--For neuron I1L: 
+SER7b  - 1
+SER#4  - 1
+SER#2  - 1
+--END of neuron I1L
+--For neuron I1R: 
+SER7b  - 1
+SER#4  - 1
+SER#2  - 1
+--END of neuron I1R
+--For neuron I2L: 
+--END of neuron I2L
+--For neuron I2R: 
+--END of neuron I2R
+--For neuron I3: 
+--END of neuron I3
+--For neuron I4: 
+SER7b  - 1
+SER#4  - 1
+SER#2  - 1
+--END of neuron I4
+--For neuron I5: 
+--END of neuron I5
+--For neuron I6: 
+--END of neuron I6
+--For neuron IL1DL: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+SER7b  - 1
+SER#4  - 1
+SER#2  - 1
+--END of neuron IL1DL
+--For neuron IL1DR: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+SER7b  - 1
+SER#4  - 1
+SER#2  - 1
+--END of neuron IL1DR
+--For neuron IL1L: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron IL1L
+--For neuron IL1R: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron IL1R
+--For neuron IL1VL: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+SER7b  - 1
+SER#4  - 1
+SER#2  - 1
+--END of neuron IL1VL
+--For neuron IL1VR: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+SER7b  - 1
+SER#4  - 1
+SER#2  - 1
+--END of neuron IL1VR
+--For neuron IL2DL: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+SER7b  - 1
+SER#4  - 1
+SER#2  - 1
+--END of neuron IL2DL
+--For neuron IL2DR: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+SER7b  - 1
+SER#4  - 1
+SER#2  - 1
+--END of neuron IL2DR
+--For neuron IL2L: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+SER7b  - 1
+SER#4  - 1
+SER#2  - 1
+--END of neuron IL2L
+--For neuron IL2R: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+SER7b  - 1
+SER#4  - 1
+SER#2  - 1
+--END of neuron IL2R
+--For neuron IL2VL: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+SER7b  - 1
+SER#4  - 1
+SER#2  - 1
+--END of neuron IL2VL
+--For neuron IL2VR: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+SER7b  - 1
+SER#4  - 1
+SER#2  - 1
+--END of neuron IL2VR
+--For neuron LUAL: 
+--END of neuron LUAL
+--For neuron LUAR: 
+--END of neuron LUAR
+--For neuron M1: 
+--END of neuron M1
+--For neuron M2L: 
+--END of neuron M2L
+--For neuron M2R: 
+--END of neuron M2R
+--For neuron M3L: 
+SER7b  - 1
+SER#4  - 1
+SER#2  - 1
+--END of neuron M3L
+--For neuron M3R: 
+SER7b  - 1
+SER#4  - 1
+SER#2  - 1
+--END of neuron M3R
+--For neuron M4: 
+SER7b  - 1
+SER#4  - 1
+SER#2  - 1
+--END of neuron M4
+--For neuron M5: 
+SER7b  - 1
+SER#4  - 1
+SER#2  - 1
+--END of neuron M5
+--For neuron MCL: 
+--END of neuron MCL
+--For neuron MCR: 
+--END of neuron MCR
+--For neuron MI: 
+SER7b  - 1
+SER#4  - 1
+SER#2  - 1
+--END of neuron MI
+--For neuron NSML: 
+SER7b  - 1
+SER#4  - 1
+SER#2  - 1
+--END of neuron NSML
+--For neuron NSML: 
+SER7b  - 1
+SER#4  - 1
+SER#2  - 1
+--END of neuron NSML
+--For neuron NSMR: 
+SER7b  - 1
+SER#4  - 1
+SER#2  - 1
+--END of neuron NSMR
+--For neuron NSMR: 
+SER7b  - 1
+SER#4  - 1
+SER#2  - 1
+--END of neuron NSMR
+--For neuron OLLL: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron OLLL
+--For neuron OLLR: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron OLLR
+--For neuron OLQDL: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron OLQDL
+--For neuron OLQDR: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+SER7b  - 1
+SER#4  - 1
+SER#2  - 1
+--END of neuron OLQDR
+--For neuron OLQVL: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+SER7b  - 1
+SER#4  - 1
+SER#2  - 1
+--END of neuron OLQVL
+--For neuron OLQVR: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+SER7b  - 1
+SER#4  - 1
+SER#2  - 1
+--END of neuron OLQVR
+--For neuron PDA: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron PDA
+--For neuron PDB: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron PDB
+--For neuron PDEL: 
+--END of neuron PDEL
+--For neuron PDER: 
+--END of neuron PDER
+--For neuron PHAL: 
+--END of neuron PHAL
+--For neuron PHAR: 
+--END of neuron PHAR
+--For neuron PHBL: 
+--END of neuron PHBL
+--For neuron PHBR: 
+--END of neuron PHBR
+--For neuron PHCL: 
+--END of neuron PHCL
+--For neuron PHCR: 
+--END of neuron PHCR
+--For neuron PLML: 
+--END of neuron PLML
+--For neuron PLMR: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron PLMR
+--For neuron PLNL: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron PLNL
+--For neuron PLNR: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron PLNR
+--For neuron PQR: 
+--END of neuron PQR
+--For neuron PVCL: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron PVCL
+--For neuron PVCR: 
+GGR#3  - 1
+GGR#2 - 1
+GGR#1 - 1
+EXP#1 - 1
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron PVCR
+--For neuron PVDL: 
+--END of neuron PVDL
+--For neuron PVDR: 
+--END of neuron PVDR
+--For neuron PVM: 
+GGR#3  - 1
+GGR#2 - 1
+GGR#1 - 1
+EXP#1 - 1
+--END of neuron PVM
+--For neuron PVNL: 
+GGR#3  - 1
+GGR#2 - 1
+GGR#1 - 1
+EXP#1 - 1
+--END of neuron PVNL
+--For neuron PVNR: 
+GGR#3  - 1
+GGR#2 - 1
+GGR#1 - 1
+EXP#1 - 1
+--END of neuron PVNR
+--For neuron PVPL: 
+NMR#2 - 1
+NMR#1 - 1
+GLR#8 - 1
+GLR#7 - 1
+GLR#6 - 1
+GLR#5 - 1
+GLR#4 - 1
+GLR#3 - 1
+GLR#2 - 1
+GLR#1 - 1
+AVR#15 - 1
+AVR#14 - 1
+--END of neuron PVPL
+--For neuron PVPR: 
+GGR#3  - 1
+GGR#2 - 1
+GGR#1 - 1
+EXP#1 - 1
+--END of neuron PVPR
+--For neuron PVQL: 
+NMR#2 - 1
+NMR#1 - 1
+GLR#8 - 1
+GLR#7 - 1
+GLR#6 - 1
+GLR#5 - 1
+GLR#4 - 1
+GLR#3 - 1
+GLR#2 - 1
+GLR#1 - 1
+AVR#15 - 1
+AVR#14 - 1
+--END of neuron PVQL
+--For neuron PVQR: 
+GGR#3  - 1
+GGR#2 - 1
+GGR#1 - 1
+EXP#1 - 1
+NMR#2 - 1
+NMR#1 - 1
+GLR#8 - 1
+GLR#7 - 1
+GLR#6 - 1
+GLR#5 - 1
+GLR#4 - 1
+GLR#3 - 1
+GLR#2 - 1
+GLR#1 - 1
+AVR#15 - 1
+AVR#14 - 1
+--END of neuron PVQR
+--For neuron PVR: 
+SER7b  - 1
+SER#4  - 1
+SER#2  - 1
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+NMR#2 - 1
+NMR#1 - 1
+GLR#8 - 1
+GLR#7 - 1
+GLR#6 - 1
+GLR#5 - 1
+GLR#4 - 1
+GLR#3 - 1
+GLR#2 - 1
+GLR#1 - 1
+AVR#15 - 1
+AVR#14 - 1
+--END of neuron PVR
+--For neuron PVT: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+SER7b  - 1
+SER#4  - 1
+SER#2  - 1
+GGR#3  - 1
+GGR#2 - 1
+GGR#1 - 1
+EXP#1 - 1
+--END of neuron PVT
+--For neuron PVWL: 
+--END of neuron PVWL
+--For neuron PVWR: 
+--END of neuron PVWR
+--For neuron RIAL: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron RIAL
+--For neuron RIAR: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron RIAR
+--For neuron RIBL: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron RIBL
+--For neuron RIBR: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+SER7b  - 1
+SER#4  - 1
+SER#2  - 1
+--END of neuron RIBR
+--For neuron RICL: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+NMR#2 - 1
+NMR#1 - 1
+GLR#8 - 1
+GLR#7 - 1
+GLR#6 - 1
+GLR#5 - 1
+GLR#4 - 1
+GLR#3 - 1
+GLR#2 - 1
+GLR#1 - 1
+AVR#15 - 1
+AVR#14 - 1
+--END of neuron RICL
+--For neuron RICR: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+NMR#2 - 1
+NMR#1 - 1
+GLR#8 - 1
+GLR#7 - 1
+GLR#6 - 1
+GLR#5 - 1
+GLR#4 - 1
+GLR#3 - 1
+GLR#2 - 1
+GLR#1 - 1
+AVR#15 - 1
+AVR#14 - 1
+--END of neuron RICR
+--For neuron RID: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron RID
+--For neuron RIFL: 
+--END of neuron RIFL
+--For neuron RIFR: 
+SER7b  - 1
+SER#4  - 1
+SER#2  - 1
+--END of neuron RIFR
+--For neuron RIGL: 
+--END of neuron RIGL
+--For neuron RIGR: 
+--END of neuron RIGR
+--For neuron RIH: 
+SER7b  - 1
+SER#4  - 1
+SER#2  - 1
+--END of neuron RIH
+--For neuron RIML: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron RIML
+--For neuron RIML: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron RIML
+--For neuron RIMR: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+NMR#2 - 1
+NMR#1 - 1
+GLR#8 - 1
+GLR#7 - 1
+GLR#6 - 1
+GLR#5 - 1
+GLR#4 - 1
+GLR#3 - 1
+GLR#2 - 1
+GLR#1 - 1
+AVR#15 - 1
+AVR#14 - 1
+--END of neuron RIMR
+--For neuron RIMR: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+NMR#2 - 1
+NMR#1 - 1
+GLR#8 - 1
+GLR#7 - 1
+GLR#6 - 1
+GLR#5 - 1
+GLR#4 - 1
+GLR#3 - 1
+GLR#2 - 1
+GLR#1 - 1
+AVR#15 - 1
+AVR#14 - 1
+--END of neuron RIMR
+--For neuron RIPL: 
+--END of neuron RIPL
+--For neuron RIPR: 
+--END of neuron RIPR
+--For neuron RIR: 
+--END of neuron RIR
+--For neuron RIS: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+GGR#3  - 1
+GGR#2 - 1
+GGR#1 - 1
+EXP#1 - 1
+--END of neuron RIS
+--For neuron RIVL: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron RIVL
+--For neuron RIVR: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron RIVR
+--For neuron RMDDL: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron RMDDL
+--For neuron RMDDR: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron RMDDR
+--For neuron RMDL: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron RMDL
+--For neuron RMDR: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron RMDR
+--For neuron RMDVL: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron RMDVL
+--For neuron RMDVR: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron RMDVR
+--For neuron RMED: 
+SER7b  - 1
+SER#4  - 1
+SER#2  - 1
+--END of neuron RMED
+--For neuron RMEL: 
+--END of neuron RMEL
+--For neuron RMER: 
+--END of neuron RMER
+--For neuron RMEV: 
+--END of neuron RMEV
+--For neuron RMFL: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron RMFL
+--For neuron RMFR: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron RMFR
+--For neuron RMGL: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+NMR#2 - 1
+NMR#1 - 1
+GLR#8 - 1
+GLR#7 - 1
+GLR#6 - 1
+GLR#5 - 1
+GLR#4 - 1
+GLR#3 - 1
+GLR#2 - 1
+GLR#1 - 1
+AVR#15 - 1
+AVR#14 - 1
+--END of neuron RMGL
+--For neuron RMGR: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+SER7b  - 1
+SER#4  - 1
+SER#2  - 1
+NMR#2 - 1
+NMR#1 - 1
+GLR#8 - 1
+GLR#7 - 1
+GLR#6 - 1
+GLR#5 - 1
+GLR#4 - 1
+GLR#3 - 1
+GLR#2 - 1
+GLR#1 - 1
+AVR#15 - 1
+AVR#14 - 1
+--END of neuron RMGR
+--For neuron RMHL: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron RMHL
+--For neuron RMHR: 
+--END of neuron RMHR
+--For neuron SAADL: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron SAADL
+--For neuron SAADR: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron SAADR
+--For neuron SAAVL: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron SAAVL
+--For neuron SAAVR: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron SAAVR
+--For neuron SABD: 
+--END of neuron SABD
+--For neuron SABVL: 
+--END of neuron SABVL
+--For neuron SABVR: 
+--END of neuron SABVR
+--For neuron SDQL: 
+--END of neuron SDQL
+--For neuron SDQR: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron SDQR
+--For neuron SIADL: 
+--END of neuron SIADL
+--For neuron SIADR: 
+--END of neuron SIADR
+--For neuron SIAVL: 
+--END of neuron SIAVL
+--For neuron SIAVR: 
+--END of neuron SIAVR
+--For neuron SIBDL: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron SIBDL
+--For neuron SIBDR: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+SER7b  - 1
+SER#4  - 1
+SER#2  - 1
+--END of neuron SIBDR
+--For neuron SIBVL: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron SIBVL
+--For neuron SIBVR: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron SIBVR
+--For neuron SMBDL: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron SMBDL
+--For neuron SMBDR: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron SMBDR
+--For neuron SMBVL: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron SMBVL
+--For neuron SMBVR: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron SMBVR
+--For neuron SMDDL: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron SMDDL
+--For neuron SMDDR: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron SMDDR
+--For neuron SMDVL: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron SMDVL
+--For neuron SMDVR: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron SMDVR
+--For neuron URADL: 
+SER7b  - 1
+SER#4  - 1
+SER#2  - 1
+--END of neuron URADL
+--For neuron URADR: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+SER7b  - 1
+SER#4  - 1
+SER#2  - 1
+--END of neuron URADR
+--For neuron URAVL: 
+SER7b  - 1
+SER#4  - 1
+SER#2  - 1
+--END of neuron URAVL
+--For neuron URAVR: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+SER7b  - 1
+SER#4  - 1
+SER#2  - 1
+--END of neuron URAVR
+--For neuron URBL: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron URBL
+--For neuron URBR: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+NMR#2 - 1
+NMR#1 - 1
+GLR#8 - 1
+GLR#7 - 1
+GLR#6 - 1
+GLR#5 - 1
+GLR#4 - 1
+GLR#3 - 1
+GLR#2 - 1
+GLR#1 - 1
+AVR#15 - 1
+AVR#14 - 1
+--END of neuron URBR
+--For neuron URXL: 
+--END of neuron URXL
+--For neuron URXR: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+SER7b  - 1
+SER#4  - 1
+SER#2  - 1
+--END of neuron URXR
+--For neuron URYDL: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron URYDL
+--For neuron URYDR: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron URYDR
+--For neuron URYVL: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+SER7b  - 1
+SER#4  - 1
+SER#2  - 1
+--END of neuron URYVL
+--For neuron URYVR: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron URYVR
+--For neuron VA1: 
+--END of neuron VA1
+--For neuron VA10: 
+--END of neuron VA10
+--For neuron VA11: 
+--END of neuron VA11
+--For neuron VA12: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron VA12
+--For neuron VA2: 
+--END of neuron VA2
+--For neuron VA3: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron VA3
+--For neuron VA4: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron VA4
+--For neuron VA5: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron VA5
+--For neuron VA6: 
+--END of neuron VA6
+--For neuron VA7: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron VA7
+--For neuron VA8: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron VA8
+--For neuron VA9: 
+GGR#3  - 1
+GGR#2 - 1
+GGR#1 - 1
+EXP#1 - 1
+--END of neuron VA9
+--For neuron VB1: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron VB1
+--For neuron VB10: 
+--END of neuron VB10
+--For neuron VB11: 
+--END of neuron VB11
+--For neuron VB2: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron VB2
+--For neuron VB3: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron VB3
+--For neuron VB4: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron VB4
+--For neuron VB5: 
+--END of neuron VB5
+--For neuron VB6: 
+--END of neuron VB6
+--For neuron VB7: 
+--END of neuron VB7
+--For neuron VB8: 
+--END of neuron VB8
+--For neuron VB9: 
+GGR#3  - 1
+GGR#2 - 1
+GGR#1 - 1
+EXP#1 - 1
+--END of neuron VB9
+--For neuron VC1: 
+GGR#3  - 1
+GGR#2 - 1
+GGR#1 - 1
+EXP#1 - 1
+--END of neuron VC1
+--For neuron VC1: 
+GGR#3  - 1
+GGR#2 - 1
+GGR#1 - 1
+EXP#1 - 1
+--END of neuron VC1
+--For neuron VC2: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron VC2
+--For neuron VC2: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron VC2
+--For neuron VC3: 
+GGR#3  - 1
+GGR#2 - 1
+GGR#1 - 1
+EXP#1 - 1
+--END of neuron VC3
+--For neuron VC3: 
+GGR#3  - 1
+GGR#2 - 1
+GGR#1 - 1
+EXP#1 - 1
+--END of neuron VC3
+--For neuron VC4: 
+--END of neuron VC4
+--For neuron VC4: 
+--END of neuron VC4
+--For neuron VC5: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron VC5
+--For neuron VC5: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron VC5
+--For neuron VC6: 
+--END of neuron VC6
+--For neuron VC6: 
+--END of neuron VC6
+--For neuron VD1: 
+--END of neuron VD1
+--For neuron VD10: 
+--END of neuron VD10
+--For neuron VD11: 
+--END of neuron VD11
+--For neuron VD12: 
+--END of neuron VD12
+--For neuron VD13: 
+--END of neuron VD13
+--For neuron VD2: 
+GAR#2 - 1
+GAR#1 - 1
+DES#2 - 1
+DEG#3  - 1
+ACM#2 - 1
+--END of neuron VD2
+--For neuron VD3: 
+--END of neuron VD3
+--For neuron VD4: 
+--END of neuron VD4
+--For neuron VD5: 
+--END of neuron VD5
+--For neuron VD6: 
+--END of neuron VD6
+--For neuron VD7: 
+--END of neuron VD7
+--For neuron VD8: 
+--END of neuron VD8
+--For neuron VD9: 
+--END of neuron VD9

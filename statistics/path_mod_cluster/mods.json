@@ -1,0 +1,3913 @@
+{
+  "Q": -0.0016659293477607395,
+  "children": [
+    {
+      "Q": 0.030876066307928673,
+      "children": [
+        {
+          "Q": 0.05076204209957756,
+          "children": [
+            {
+              "Q": 0.006095593244648437,
+              "children": [
+                {
+                  "Q": 0.11680000000000001,
+                  "children": [
+                    {
+                      "Q": 0.163265306122449,
+                      "children": [
+                        {
+                          "Q": -0.125,
+                          "children": [
+                            {
+                              "Q": 0,
+                              "partitions": [
+                                [
+                                  "IL1VR",
+                                  "SDQR"
+                                ],
+                                []
+                              ]
+                            },
+                            {
+                              "Q": 0.5,
+                              "children": [
+                                {
+                                  "Q": 0.0,
+                                  "partitions": [
+                                    [],
+                                    [
+                                      "IL1VL"
+                                    ]
+                                  ]
+                                },
+                                {
+                                  "Q": 0.0,
+                                  "partitions": [
+                                    [],
+                                    [
+                                      "AFDL",
+                                      "IL2L"
+                                    ]
+                                  ]
+                                }
+                              ],
+                              "partitions": [
+                                [
+                                  "IL1VL"
+                                ],
+                                [
+                                  "AFDL",
+                                  "IL2L"
+                                ]
+                              ]
+                            }
+                          ],
+                          "partitions": [
+                            [
+                              "IL1VR",
+                              "SDQR"
+                            ],
+                            [
+                              "AFDL",
+                              "IL1VL",
+                              "IL2L"
+                            ]
+                          ]
+                        },
+                        {
+                          "Q": 0.0,
+                          "partitions": [
+                            [],
+                            [
+                              "IL1DR",
+                              "IL2VL"
+                            ]
+                          ]
+                        }
+                      ],
+                      "partitions": [
+                        [
+                          "AFDL",
+                          "IL1VL",
+                          "IL1VR",
+                          "IL2L",
+                          "SDQR"
+                        ],
+                        [
+                          "IL1DR",
+                          "IL2VL"
+                        ]
+                      ]
+                    },
+                    {
+                      "Q": 0.05612244897959184,
+                      "children": [
+                        {
+                          "Q": 0.0,
+                          "partitions": [
+                            [],
+                            [
+                              "ALML"
+                            ]
+                          ]
+                        },
+                        {
+                          "Q": -0.006944444444444472,
+                          "children": [
+                            {
+                              "Q": 0,
+                              "partitions": [
+                                [
+                                  "VB07",
+                                  "SIBDR",
+                                  "VD06"
+                                ],
+                                []
+                              ]
+                            },
+                            {
+                              "Q": 0.004535147392290259,
+                              "children": [
+                                {
+                                  "Q": 0.0,
+                                  "partitions": [
+                                    [],
+                                    [
+                                      "M2L",
+                                      "MCR",
+                                      "RMED",
+                                      "RMEL",
+                                      "RMHL",
+                                      "SAADL"
+                                    ]
+                                  ]
+                                },
+                                {
+                                  "Q": -0.09467455621301775,
+                                  "children": [
+                                    {
+                                      "Q": 0,
+                                      "partitions": [
+                                        [
+                                          "SDQL",
+                                          "M3R"
+                                        ],
+                                        []
+                                      ]
+                                    },
+                                    {
+                                      "Q": 1.734723475976807e-17,
+                                      "partitions": [
+                                        [],
+                                        [
+                                          "ASEL",
+                                          "ASGR",
+                                          "AVAL",
+                                          "BDUR",
+                                          "DA04",
+                                          "DA07",
+                                          "DD01",
+                                          "I1L",
+                                          "I4",
+                                          "SIADR",
+                                          "VD01"
+                                        ]
+                                      ]
+                                    }
+                                  ],
+                                  "partitions": [
+                                    [
+                                      "M3R",
+                                      "SDQL"
+                                    ],
+                                    [
+                                      "ASEL",
+                                      "ASGR",
+                                      "AVAL",
+                                      "BDUR",
+                                      "DA04",
+                                      "DA07",
+                                      "DD01",
+                                      "I1L",
+                                      "I4",
+                                      "SIADR",
+                                      "VD01"
+                                    ]
+                                  ]
+                                }
+                              ],
+                              "partitions": [
+                                [
+                                  "M2L",
+                                  "MCR",
+                                  "RMED",
+                                  "RMEL",
+                                  "RMHL",
+                                  "SAADL"
+                                ],
+                                [
+                                  "ASEL",
+                                  "ASGR",
+                                  "AVAL",
+                                  "BDUR",
+                                  "DA04",
+                                  "DA07",
+                                  "DD01",
+                                  "I1L",
+                                  "I4",
+                                  "M3R",
+                                  "SDQL",
+                                  "SIADR",
+                                  "VD01"
+                                ]
+                              ]
+                            }
+                          ],
+                          "partitions": [
+                            [
+                              "SIBDR",
+                              "VB07",
+                              "VD06"
+                            ],
+                            [
+                              "ASEL",
+                              "ASGR",
+                              "AVAL",
+                              "BDUR",
+                              "DA04",
+                              "DA07",
+                              "DD01",
+                              "I1L",
+                              "I4",
+                              "M2L",
+                              "M3R",
+                              "MCR",
+                              "RMED",
+                              "RMEL",
+                              "RMHL",
+                              "SAADL",
+                              "SDQL",
+                              "SIADR",
+                              "VD01"
+                            ]
+                          ]
+                        }
+                      ],
+                      "partitions": [
+                        [
+                          "ALML"
+                        ],
+                        [
+                          "ASEL",
+                          "ASGR",
+                          "AVAL",
+                          "BDUR",
+                          "DA04",
+                          "DA07",
+                          "DD01",
+                          "I1L",
+                          "I4",
+                          "M2L",
+                          "M3R",
+                          "MCR",
+                          "RMED",
+                          "RMEL",
+                          "RMHL",
+                          "SAADL",
+                          "SDQL",
+                          "SIADR",
+                          "SIBDR",
+                          "VB07",
+                          "VD01",
+                          "VD06"
+                        ]
+                      ]
+                    }
+                  ],
+                  "partitions": [
+                    [
+                      "AFDL",
+                      "IL1DR",
+                      "IL1VL",
+                      "IL1VR",
+                      "IL2L",
+                      "IL2VL",
+                      "SDQR"
+                    ],
+                    [
+                      "ALML",
+                      "ASEL",
+                      "ASGR",
+                      "AVAL",
+                      "BDUR",
+                      "DA04",
+                      "DA07",
+                      "DD01",
+                      "I1L",
+                      "I4",
+                      "M2L",
+                      "M3R",
+                      "MCR",
+                      "RMED",
+                      "RMEL",
+                      "RMHL",
+                      "SAADL",
+                      "SDQL",
+                      "SIADR",
+                      "SIBDR",
+                      "VB07",
+                      "VD01",
+                      "VD06"
+                    ]
+                  ]
+                },
+                {
+                  "Q": 0.1714285714285714,
+                  "children": [
+                    {
+                      "Q": 0.0,
+                      "partitions": [
+                        [],
+                        [
+                          "DVA",
+                          "I2R",
+                          "PDER",
+                          "PLML"
+                        ]
+                      ]
+                    },
+                    {
+                      "Q": 0.09602194787379972,
+                      "children": [
+                        {
+                          "Q": -4.163336342344337e-17,
+                          "children": [
+                            {
+                              "Q": 0,
+                              "partitions": [
+                                [
+                                  "ADEL"
+                                ],
+                                []
+                              ]
+                            },
+                            {
+                              "Q": 0.0,
+                              "children": [
+                                {
+                                  "Q": 0,
+                                  "partitions": [
+                                    [
+                                      "OLQDL",
+                                      "RMFR"
+                                    ],
+                                    []
+                                  ]
+                                },
+                                {
+                                  "Q": -0.2222222222222222,
+                                  "children": [
+                                    {
+                                      "Q": 0.0,
+                                      "partitions": [
+                                        [],
+                                        [
+                                          "RIAR"
+                                        ]
+                                      ]
+                                    },
+                                    {
+                                      "Q": 0,
+                                      "partitions": [
+                                        [
+                                          "DA08",
+                                          "RIFL",
+                                          "RMDDL"
+                                        ],
+                                        []
+                                      ]
+                                    }
+                                  ],
+                                  "partitions": [
+                                    [
+                                      "RIAR"
+                                    ],
+                                    [
+                                      "DA08",
+                                      "RIFL",
+                                      "RMDDL"
+                                    ]
+                                  ]
+                                }
+                              ],
+                              "partitions": [
+                                [
+                                  "OLQDL",
+                                  "RMFR"
+                                ],
+                                [
+                                  "DA08",
+                                  "RIAR",
+                                  "RIFL",
+                                  "RMDDL"
+                                ]
+                              ]
+                            }
+                          ],
+                          "partitions": [
+                            [
+                              "ADEL"
+                            ],
+                            [
+                              "DA08",
+                              "OLQDL",
+                              "RIAR",
+                              "RIFL",
+                              "RMDDL",
+                              "RMFR"
+                            ]
+                          ]
+                        },
+                        {
+                          "Q": -0.027777777777777776,
+                          "children": [
+                            {
+                              "Q": 0,
+                              "partitions": [
+                                [
+                                  "VD10",
+                                  "RIVL"
+                                ],
+                                []
+                              ]
+                            },
+                            {
+                              "Q": -0.02469135802469136,
+                              "children": [
+                                {
+                                  "Q": 0,
+                                  "partitions": [
+                                    [
+                                      "VA04"
+                                    ],
+                                    []
+                                  ]
+                                },
+                                {
+                                  "Q": 1.9081958235744878e-17,
+                                  "partitions": [
+                                    [],
+                                    [
+                                      "AIYR",
+                                      "ALMR",
+                                      "AS04",
+                                      "ASJL",
+                                      "AVBR",
+                                      "BDUL",
+                                      "DA05",
+                                      "DB02",
+                                      "DD02",
+                                      "VA09"
+                                    ]
+                                  ]
+                                }
+                              ],
+                              "partitions": [
+                                [
+                                  "VA04"
+                                ],
+                                [
+                                  "AIYR",
+                                  "ALMR",
+                                  "AS04",
+                                  "ASJL",
+                                  "AVBR",
+                                  "BDUL",
+                                  "DA05",
+                                  "DB02",
+                                  "DD02",
+                                  "VA09"
+                                ]
+                              ]
+                            }
+                          ],
+                          "partitions": [
+                            [
+                              "RIVL",
+                              "VD10"
+                            ],
+                            [
+                              "AIYR",
+                              "ALMR",
+                              "AS04",
+                              "ASJL",
+                              "AVBR",
+                              "BDUL",
+                              "DA05",
+                              "DB02",
+                              "DD02",
+                              "VA04",
+                              "VA09"
+                            ]
+                          ]
+                        }
+                      ],
+                      "partitions": [
+                        [
+                          "ADEL",
+                          "DA08",
+                          "OLQDL",
+                          "RIAR",
+                          "RIFL",
+                          "RMDDL",
+                          "RMFR"
+                        ],
+                        [
+                          "AIYR",
+                          "ALMR",
+                          "AS04",
+                          "ASJL",
+                          "AVBR",
+                          "BDUL",
+                          "DA05",
+                          "DB02",
+                          "DD02",
+                          "RIVL",
+                          "VA04",
+                          "VA09",
+                          "VD10"
+                        ]
+                      ]
+                    }
+                  ],
+                  "partitions": [
+                    [
+                      "DVA",
+                      "I2R",
+                      "PDER",
+                      "PLML"
+                    ],
+                    [
+                      "ADEL",
+                      "AIYR",
+                      "ALMR",
+                      "AS04",
+                      "ASJL",
+                      "AVBR",
+                      "BDUL",
+                      "DA05",
+                      "DA08",
+                      "DB02",
+                      "DD02",
+                      "OLQDL",
+                      "RIAR",
+                      "RIFL",
+                      "RIVL",
+                      "RMDDL",
+                      "RMFR",
+                      "VA04",
+                      "VA09",
+                      "VD10"
+                    ]
+                  ]
+                }
+              ],
+              "partitions": [
+                [
+                  "AFDL",
+                  "ALML",
+                  "ASEL",
+                  "ASGR",
+                  "AVAL",
+                  "BDUR",
+                  "DA04",
+                  "DA07",
+                  "DD01",
+                  "I1L",
+                  "I4",
+                  "IL1DR",
+                  "IL1VL",
+                  "IL1VR",
+                  "IL2L",
+                  "IL2VL",
+                  "M2L",
+                  "M3R",
+                  "MCR",
+                  "RMED",
+                  "RMEL",
+                  "RMHL",
+                  "SAADL",
+                  "SDQL",
+                  "SDQR",
+                  "SIADR",
+                  "SIBDR",
+                  "VB07",
+                  "VD01",
+                  "VD06"
+                ],
+                [
+                  "ADEL",
+                  "AIYR",
+                  "ALMR",
+                  "AS04",
+                  "ASJL",
+                  "AVBR",
+                  "BDUL",
+                  "DA05",
+                  "DA08",
+                  "DB02",
+                  "DD02",
+                  "DVA",
+                  "I2R",
+                  "OLQDL",
+                  "PDER",
+                  "PLML",
+                  "RIAR",
+                  "RIFL",
+                  "RIVL",
+                  "RMDDL",
+                  "RMFR",
+                  "VA04",
+                  "VA09",
+                  "VD10"
+                ]
+              ]
+            },
+            {
+              "Q": 0.13945578231292516,
+              "children": [
+                {
+                  "Q": -0.024973985431841813,
+                  "children": [
+                    {
+                      "Q": 0,
+                      "partitions": [
+                        [
+                          "ASER",
+                          "CEPVR",
+                          "I5",
+                          "AVM"
+                        ],
+                        []
+                      ]
+                    },
+                    {
+                      "Q": 0.055555555555555594,
+                      "children": [
+                        {
+                          "Q": 0.0,
+                          "partitions": [
+                            [],
+                            [
+                              "ADAL",
+                              "IL1R",
+                              "PHCR",
+                              "PLNL"
+                            ]
+                          ]
+                        },
+                        {
+                          "Q": 5.551115123125783e-17,
+                          "partitions": [
+                            [],
+                            [
+                              "AIZR",
+                              "ALNL",
+                              "AS09",
+                              "OLQVR",
+                              "PHBR",
+                              "PVQR",
+                              "RIGR",
+                              "RIPR",
+                              "RMDVR",
+                              "RMGR",
+                              "SIBVL",
+                              "VC02"
+                            ]
+                          ]
+                        }
+                      ],
+                      "partitions": [
+                        [
+                          "ADAL",
+                          "IL1R",
+                          "PHCR",
+                          "PLNL"
+                        ],
+                        [
+                          "AIZR",
+                          "ALNL",
+                          "AS09",
+                          "OLQVR",
+                          "PHBR",
+                          "PVQR",
+                          "RIGR",
+                          "RIPR",
+                          "RMDVR",
+                          "RMGR",
+                          "SIBVL",
+                          "VC02"
+                        ]
+                      ]
+                    }
+                  ],
+                  "partitions": [
+                    [
+                      "ASER",
+                      "AVM",
+                      "CEPVR",
+                      "I5"
+                    ],
+                    [
+                      "ADAL",
+                      "AIZR",
+                      "ALNL",
+                      "AS09",
+                      "IL1R",
+                      "OLQVR",
+                      "PHBR",
+                      "PHCR",
+                      "PLNL",
+                      "PVQR",
+                      "RIGR",
+                      "RIPR",
+                      "RMDVR",
+                      "RMGR",
+                      "SIBVL",
+                      "VC02"
+                    ]
+                  ]
+                },
+                {
+                  "Q": -0.12476370510396975,
+                  "children": [
+                    {
+                      "Q": 2.7755575615628914e-17,
+                      "partitions": [
+                        [],
+                        [
+                          "AVHL",
+                          "MCL",
+                          "SMDVL",
+                          "SMDVR",
+                          "URXR",
+                          "URYDR",
+                          "VA08",
+                          "VA10",
+                          "VB11",
+                          "VD12"
+                        ]
+                      ]
+                    },
+                    {
+                      "Q": 0.0,
+                      "partitions": [
+                        [],
+                        [
+                          "ADFL",
+                          "DA09",
+                          "DD05",
+                          "LUAL",
+                          "VB02",
+                          "VB06",
+                          "VB08"
+                        ]
+                      ]
+                    }
+                  ],
+                  "partitions": [
+                    [
+                      "AVHL",
+                      "MCL",
+                      "SMDVL",
+                      "SMDVR",
+                      "URXR",
+                      "URYDR",
+                      "VA08",
+                      "VA10",
+                      "VB11",
+                      "VD12"
+                    ],
+                    [
+                      "ADFL",
+                      "DA09",
+                      "DD05",
+                      "LUAL",
+                      "VB02",
+                      "VB06",
+                      "VB08"
+                    ]
+                  ]
+                }
+              ],
+              "partitions": [
+                [
+                  "ADAL",
+                  "AIZR",
+                  "ALNL",
+                  "AS09",
+                  "ASER",
+                  "AVM",
+                  "CEPVR",
+                  "I5",
+                  "IL1R",
+                  "OLQVR",
+                  "PHBR",
+                  "PHCR",
+                  "PLNL",
+                  "PVQR",
+                  "RIGR",
+                  "RIPR",
+                  "RMDVR",
+                  "RMGR",
+                  "SIBVL",
+                  "VC02"
+                ],
+                [
+                  "ADFL",
+                  "AVHL",
+                  "DA09",
+                  "DD05",
+                  "LUAL",
+                  "MCL",
+                  "SMDVL",
+                  "SMDVR",
+                  "URXR",
+                  "URYDR",
+                  "VA08",
+                  "VA10",
+                  "VB02",
+                  "VB06",
+                  "VB08",
+                  "VB11",
+                  "VD12"
+                ]
+              ]
+            }
+          ],
+          "partitions": [
+            [
+              "ADEL",
+              "AFDL",
+              "AIYR",
+              "ALML",
+              "ALMR",
+              "AS04",
+              "ASEL",
+              "ASGR",
+              "ASJL",
+              "AVAL",
+              "AVBR",
+              "BDUL",
+              "BDUR",
+              "DA04",
+              "DA05",
+              "DA07",
+              "DA08",
+              "DB02",
+              "DD01",
+              "DD02",
+              "DVA",
+              "I1L",
+              "I2R",
+              "I4",
+              "IL1DR",
+              "IL1VL",
+              "IL1VR",
+              "IL2L",
+              "IL2VL",
+              "M2L",
+              "M3R",
+              "MCR",
+              "OLQDL",
+              "PDER",
+              "PLML",
+              "RIAR",
+              "RIFL",
+              "RIVL",
+              "RMDDL",
+              "RMED",
+              "RMEL",
+              "RMFR",
+              "RMHL",
+              "SAADL",
+              "SDQL",
+              "SDQR",
+              "SIADR",
+              "SIBDR",
+              "VA04",
+              "VA09",
+              "VB07",
+              "VD01",
+              "VD06",
+              "VD10"
+            ],
+            [
+              "ADAL",
+              "ADFL",
+              "AIZR",
+              "ALNL",
+              "AS09",
+              "ASER",
+              "AVHL",
+              "AVM",
+              "CEPVR",
+              "DA09",
+              "DD05",
+              "I5",
+              "IL1R",
+              "LUAL",
+              "MCL",
+              "OLQVR",
+              "PHBR",
+              "PHCR",
+              "PLNL",
+              "PVQR",
+              "RIGR",
+              "RIPR",
+              "RMDVR",
+              "RMGR",
+              "SIBVL",
+              "SMDVL",
+              "SMDVR",
+              "URXR",
+              "URYDR",
+              "VA08",
+              "VA10",
+              "VB02",
+              "VB06",
+              "VB08",
+              "VB11",
+              "VC02",
+              "VD12"
+            ]
+          ]
+        },
+        {
+          "Q": 0.07437934704586519,
+          "children": [
+            {
+              "Q": -0.0007256235827664478,
+              "children": [
+                {
+                  "Q": -0.09090909090909093,
+                  "children": [
+                    {
+                      "Q": -0.1487603305785124,
+                      "children": [
+                        {
+                          "Q": 0.0,
+                          "partitions": [
+                            [],
+                            [
+                              "AVHR",
+                              "AWAL",
+                              "DA02",
+                              "OLLL"
+                            ]
+                          ]
+                        },
+                        {
+                          "Q": 4.163336342344337e-17,
+                          "partitions": [
+                            [],
+                            [
+                              "AIAL",
+                              "DB05",
+                              "IL2VR",
+                              "M3L",
+                              "OLLR",
+                              "PVWR",
+                              "RIGL",
+                              "SIAVL",
+                              "VA02",
+                              "VD11",
+                              "VD13"
+                            ]
+                          ]
+                        }
+                      ],
+                      "partitions": [
+                        [
+                          "AVHR",
+                          "AWAL",
+                          "DA02",
+                          "OLLL"
+                        ],
+                        [
+                          "AIAL",
+                          "DB05",
+                          "IL2VR",
+                          "M3L",
+                          "OLLR",
+                          "PVWR",
+                          "RIGL",
+                          "SIAVL",
+                          "VA02",
+                          "VD11",
+                          "VD13"
+                        ]
+                      ]
+                    },
+                    {
+                      "Q": -0.08163265306122447,
+                      "children": [
+                        {
+                          "Q": -0.125,
+                          "children": [
+                            {
+                              "Q": 0,
+                              "partitions": [
+                                [
+                                  "ADLL",
+                                  "OLQDR"
+                                ],
+                                []
+                              ]
+                            },
+                            {
+                              "Q": 0.0,
+                              "children": [
+                                {
+                                  "Q": 0.5,
+                                  "children": [
+                                    {
+                                      "Q": 0.0,
+                                      "partitions": [
+                                        [],
+                                        [
+                                          "URBL"
+                                        ]
+                                      ]
+                                    },
+                                    {
+                                      "Q": 0.0,
+                                      "partitions": [
+                                        [],
+                                        [
+                                          "M4",
+                                          "VD07"
+                                        ]
+                                      ]
+                                    }
+                                  ],
+                                  "partitions": [
+                                    [
+                                      "URBL"
+                                    ],
+                                    [
+                                      "M4",
+                                      "VD07"
+                                    ]
+                                  ]
+                                },
+                                {
+                                  "Q": 0,
+                                  "partitions": [
+                                    [
+                                      "RIFR",
+                                      "ASHL",
+                                      "PDB",
+                                      "MI"
+                                    ],
+                                    []
+                                  ]
+                                }
+                              ],
+                              "partitions": [
+                                [
+                                  "M4",
+                                  "URBL",
+                                  "VD07"
+                                ],
+                                [
+                                  "ASHL",
+                                  "MI",
+                                  "PDB",
+                                  "RIFR"
+                                ]
+                              ]
+                            }
+                          ],
+                          "partitions": [
+                            [
+                              "ADLL",
+                              "OLQDR"
+                            ],
+                            [
+                              "ASHL",
+                              "M4",
+                              "MI",
+                              "PDB",
+                              "RIFR",
+                              "URBL",
+                              "VD07"
+                            ]
+                          ]
+                        },
+                        {
+                          "Q": 0,
+                          "partitions": [
+                            [
+                              "IL1DL",
+                              "I1R",
+                              "AWBL"
+                            ],
+                            []
+                          ]
+                        }
+                      ],
+                      "partitions": [
+                        [
+                          "ADLL",
+                          "ASHL",
+                          "M4",
+                          "MI",
+                          "OLQDR",
+                          "PDB",
+                          "RIFR",
+                          "URBL",
+                          "VD07"
+                        ],
+                        [
+                          "AWBL",
+                          "I1R",
+                          "IL1DL"
+                        ]
+                      ]
+                    }
+                  ],
+                  "partitions": [
+                    [
+                      "AIAL",
+                      "AVHR",
+                      "AWAL",
+                      "DA02",
+                      "DB05",
+                      "IL2VR",
+                      "M3L",
+                      "OLLL",
+                      "OLLR",
+                      "PVWR",
+                      "RIGL",
+                      "SIAVL",
+                      "VA02",
+                      "VD11",
+                      "VD13"
+                    ],
+                    [
+                      "ADLL",
+                      "ASHL",
+                      "AWBL",
+                      "I1R",
+                      "IL1DL",
+                      "M4",
+                      "MI",
+                      "OLQDR",
+                      "PDB",
+                      "RIFR",
+                      "URBL",
+                      "VD07"
+                    ]
+                  ]
+                },
+                {
+                  "Q": 0.2603550295857988,
+                  "children": [
+                    {
+                      "Q": 0.0,
+                      "partitions": [
+                        [],
+                        [
+                          "PDEL",
+                          "PLMR",
+                          "URYVL"
+                        ]
+                      ]
+                    },
+                    {
+                      "Q": 0.1322314049586777,
+                      "children": [
+                        {
+                          "Q": 0.21875,
+                          "children": [
+                            {
+                              "Q": -0.5,
+                              "children": [
+                                {
+                                  "Q": 0,
+                                  "partitions": [
+                                    [
+                                      "NSMR"
+                                    ],
+                                    []
+                                  ]
+                                },
+                                {
+                                  "Q": 0,
+                                  "partitions": [
+                                    [
+                                      "NSML",
+                                      "AQR",
+                                      "DB07"
+                                    ],
+                                    []
+                                  ]
+                                }
+                              ],
+                              "partitions": [
+                                [
+                                  "NSMR"
+                                ],
+                                [
+                                  "AQR",
+                                  "DB07",
+                                  "NSML"
+                                ]
+                              ]
+                            },
+                            {
+                              "Q": 0.0,
+                              "partitions": [
+                                [],
+                                [
+                                  "ADLR",
+                                  "AVAR",
+                                  "VA12"
+                                ]
+                              ]
+                            }
+                          ],
+                          "partitions": [
+                            [
+                              "AQR",
+                              "DB07",
+                              "NSML",
+                              "NSMR"
+                            ],
+                            [
+                              "ADLR",
+                              "AVAR",
+                              "VA12"
+                            ]
+                          ]
+                        },
+                        {
+                          "Q": 0.0,
+                          "partitions": [
+                            [],
+                            [
+                              "AIMR",
+                              "DD04",
+                              "FLPR",
+                              "VB03"
+                            ]
+                          ]
+                        }
+                      ],
+                      "partitions": [
+                        [
+                          "ADLR",
+                          "AQR",
+                          "AVAR",
+                          "DB07",
+                          "NSML",
+                          "NSMR",
+                          "VA12"
+                        ],
+                        [
+                          "AIMR",
+                          "DD04",
+                          "FLPR",
+                          "VB03"
+                        ]
+                      ]
+                    }
+                  ],
+                  "partitions": [
+                    [
+                      "PDEL",
+                      "PLMR",
+                      "URYVL"
+                    ],
+                    [
+                      "ADLR",
+                      "AIMR",
+                      "AQR",
+                      "AVAR",
+                      "DB07",
+                      "DD04",
+                      "FLPR",
+                      "NSML",
+                      "NSMR",
+                      "VA12",
+                      "VB03"
+                    ]
+                  ]
+                }
+              ],
+              "partitions": [
+                [
+                  "ADLL",
+                  "AIAL",
+                  "ASHL",
+                  "AVHR",
+                  "AWAL",
+                  "AWBL",
+                  "DA02",
+                  "DB05",
+                  "I1R",
+                  "IL1DL",
+                  "IL2VR",
+                  "M3L",
+                  "M4",
+                  "MI",
+                  "OLLL",
+                  "OLLR",
+                  "OLQDR",
+                  "PDB",
+                  "PVWR",
+                  "RIFR",
+                  "RIGL",
+                  "SIAVL",
+                  "URBL",
+                  "VA02",
+                  "VD07",
+                  "VD11",
+                  "VD13"
+                ],
+                [
+                  "ADLR",
+                  "AIMR",
+                  "AQR",
+                  "AVAR",
+                  "DB07",
+                  "DD04",
+                  "FLPR",
+                  "NSML",
+                  "NSMR",
+                  "PDEL",
+                  "PLMR",
+                  "URYVL",
+                  "VA12",
+                  "VB03"
+                ]
+              ]
+            },
+            {
+              "Q": -0.04396573444192492,
+              "children": [
+                {
+                  "Q": -0.006920415224913516,
+                  "children": [
+                    {
+                      "Q": 0,
+                      "partitions": [
+                        [
+                          "RMDR",
+                          "SIBVR"
+                        ],
+                        []
+                      ]
+                    },
+                    {
+                      "Q": 0.04444444444444445,
+                      "children": [
+                        {
+                          "Q": 0.0,
+                          "partitions": [
+                            [],
+                            [
+                              "ADAR",
+                              "RMER"
+                            ]
+                          ]
+                        },
+                        {
+                          "Q": -0.07407407407407407,
+                          "children": [
+                            {
+                              "Q": 2.7755575615628914e-17,
+                              "children": [
+                                {
+                                  "Q": -1.3877787807814457e-17,
+                                  "children": [
+                                    {
+                                      "Q": 0.0,
+                                      "partitions": [
+                                        [],
+                                        [
+                                          "AVBL",
+                                          "AVJL",
+                                          "AWCR"
+                                        ]
+                                      ]
+                                    },
+                                    {
+                                      "Q": 0,
+                                      "partitions": [
+                                        [
+                                          "RIMR"
+                                        ],
+                                        []
+                                      ]
+                                    }
+                                  ],
+                                  "partitions": [
+                                    [
+                                      "AVBL",
+                                      "AVJL",
+                                      "AWCR"
+                                    ],
+                                    [
+                                      "RIMR"
+                                    ]
+                                  ]
+                                },
+                                {
+                                  "Q": 0,
+                                  "partitions": [
+                                    [
+                                      "BAGR"
+                                    ],
+                                    []
+                                  ]
+                                }
+                              ],
+                              "partitions": [
+                                [
+                                  "AVBL",
+                                  "AVJL",
+                                  "AWCR",
+                                  "RIMR"
+                                ],
+                                [
+                                  "BAGR"
+                                ]
+                              ]
+                            },
+                            {
+                              "Q": 0.0,
+                              "partitions": [
+                                [],
+                                [
+                                  "ASKL",
+                                  "AVEL",
+                                  "DA01"
+                                ]
+                              ]
+                            }
+                          ],
+                          "partitions": [
+                            [
+                              "AVBL",
+                              "AVJL",
+                              "AWCR",
+                              "BAGR",
+                              "RIMR"
+                            ],
+                            [
+                              "ASKL",
+                              "AVEL",
+                              "DA01"
+                            ]
+                          ]
+                        }
+                      ],
+                      "partitions": [
+                        [
+                          "ADAR",
+                          "RMER"
+                        ],
+                        [
+                          "ASKL",
+                          "AVBL",
+                          "AVEL",
+                          "AVJL",
+                          "AWCR",
+                          "BAGR",
+                          "DA01",
+                          "RIMR"
+                        ]
+                      ]
+                    }
+                  ],
+                  "partitions": [
+                    [
+                      "RMDR",
+                      "SIBVR"
+                    ],
+                    [
+                      "ADAR",
+                      "ASKL",
+                      "AVBL",
+                      "AVEL",
+                      "AVJL",
+                      "AWCR",
+                      "BAGR",
+                      "DA01",
+                      "RIMR",
+                      "RMER"
+                    ]
+                  ]
+                },
+                {
+                  "Q": 0.0789616008653326,
+                  "children": [
+                    {
+                      "Q": 0.030612244897959162,
+                      "children": [
+                        {
+                          "Q": 0.0,
+                          "partitions": [
+                            [],
+                            [
+                              "ASHR",
+                              "ASJR",
+                              "BAGL",
+                              "RMDDR",
+                              "SABD",
+                              "SMBVR",
+                              "VA01"
+                            ]
+                          ]
+                        },
+                        {
+                          "Q": 0.11111111111111112,
+                          "children": [
+                            {
+                              "Q": 0.0,
+                              "partitions": [
+                                [],
+                                [
+                                  "AIBL"
+                                ]
+                              ]
+                            },
+                            {
+                              "Q": 2.7755575615628914e-17,
+                              "children": [
+                                {
+                                  "Q": 0,
+                                  "partitions": [
+                                    [
+                                      "URBR",
+                                      "VC05"
+                                    ],
+                                    []
+                                  ]
+                                },
+                                {
+                                  "Q": 1.3877787807814457e-17,
+                                  "children": [
+                                    {
+                                      "Q": 0,
+                                      "partitions": [
+                                        [
+                                          "VB04"
+                                        ],
+                                        []
+                                      ]
+                                    },
+                                    {
+                                      "Q": 0.5,
+                                      "children": [
+                                        {
+                                          "Q": 0.0,
+                                          "partitions": [
+                                            [],
+                                            [
+                                              "AVG"
+                                            ]
+                                          ]
+                                        },
+                                        {
+                                          "Q": 0.0,
+                                          "partitions": [
+                                            [],
+                                            [
+                                              "AINL",
+                                              "RIML"
+                                            ]
+                                          ]
+                                        }
+                                      ],
+                                      "partitions": [
+                                        [
+                                          "AVG"
+                                        ],
+                                        [
+                                          "AINL",
+                                          "RIML"
+                                        ]
+                                      ]
+                                    }
+                                  ],
+                                  "partitions": [
+                                    [
+                                      "VB04"
+                                    ],
+                                    [
+                                      "AINL",
+                                      "AVG",
+                                      "RIML"
+                                    ]
+                                  ]
+                                }
+                              ],
+                              "partitions": [
+                                [
+                                  "URBR",
+                                  "VC05"
+                                ],
+                                [
+                                  "AINL",
+                                  "AVG",
+                                  "RIML",
+                                  "VB04"
+                                ]
+                              ]
+                            }
+                          ],
+                          "partitions": [
+                            [
+                              "AIBL"
+                            ],
+                            [
+                              "AINL",
+                              "AVG",
+                              "RIML",
+                              "URBR",
+                              "VB04",
+                              "VC05"
+                            ]
+                          ]
+                        }
+                      ],
+                      "partitions": [
+                        [
+                          "ASHR",
+                          "ASJR",
+                          "BAGL",
+                          "RMDDR",
+                          "SABD",
+                          "SMBVR",
+                          "VA01"
+                        ],
+                        [
+                          "AIBL",
+                          "AINL",
+                          "AVG",
+                          "RIML",
+                          "URBR",
+                          "VB04",
+                          "VC05"
+                        ]
+                      ]
+                    },
+                    {
+                      "Q": 0.34710743801652894,
+                      "children": [
+                        {
+                          "Q": 3.469446951953614e-18,
+                          "partitions": [
+                            [],
+                            [
+                              "AS05",
+                              "PLNR",
+                              "RIBL",
+                              "RIBR",
+                              "URYVR"
+                            ]
+                          ]
+                        },
+                        {
+                          "Q": 4.163336342344337e-17,
+                          "partitions": [
+                            [],
+                            [
+                              "AS03",
+                              "ASIL",
+                              "DB04",
+                              "IL1L",
+                              "LUAR",
+                              "M5",
+                              "PVT",
+                              "VA03"
+                            ]
+                          ]
+                        }
+                      ],
+                      "partitions": [
+                        [
+                          "AS05",
+                          "PLNR",
+                          "RIBL",
+                          "RIBR",
+                          "URYVR"
+                        ],
+                        [
+                          "AS03",
+                          "ASIL",
+                          "DB04",
+                          "IL1L",
+                          "LUAR",
+                          "M5",
+                          "PVT",
+                          "VA03"
+                        ]
+                      ]
+                    }
+                  ],
+                  "partitions": [
+                    [
+                      "AIBL",
+                      "AINL",
+                      "ASHR",
+                      "ASJR",
+                      "AVG",
+                      "BAGL",
+                      "RIML",
+                      "RMDDR",
+                      "SABD",
+                      "SMBVR",
+                      "URBR",
+                      "VA01",
+                      "VB04",
+                      "VC05"
+                    ],
+                    [
+                      "AS03",
+                      "AS05",
+                      "ASIL",
+                      "DB04",
+                      "IL1L",
+                      "LUAR",
+                      "M5",
+                      "PLNR",
+                      "PVT",
+                      "RIBL",
+                      "RIBR",
+                      "URYVR",
+                      "VA03"
+                    ]
+                  ]
+                }
+              ],
+              "partitions": [
+                [
+                  "ADAR",
+                  "ASKL",
+                  "AVBL",
+                  "AVEL",
+                  "AVJL",
+                  "AWCR",
+                  "BAGR",
+                  "DA01",
+                  "RIMR",
+                  "RMDR",
+                  "RMER",
+                  "SIBVR"
+                ],
+                [
+                  "AIBL",
+                  "AINL",
+                  "AS03",
+                  "AS05",
+                  "ASHR",
+                  "ASIL",
+                  "ASJR",
+                  "AVG",
+                  "BAGL",
+                  "DB04",
+                  "IL1L",
+                  "LUAR",
+                  "M5",
+                  "PLNR",
+                  "PVT",
+                  "RIBL",
+                  "RIBR",
+                  "RIML",
+                  "RMDDR",
+                  "SABD",
+                  "SMBVR",
+                  "URBR",
+                  "URYVR",
+                  "VA01",
+                  "VA03",
+                  "VB04",
+                  "VC05"
+                ]
+              ]
+            }
+          ],
+          "partitions": [
+            [
+              "ADLL",
+              "ADLR",
+              "AIAL",
+              "AIMR",
+              "AQR",
+              "ASHL",
+              "AVAR",
+              "AVHR",
+              "AWAL",
+              "AWBL",
+              "DA02",
+              "DB05",
+              "DB07",
+              "DD04",
+              "FLPR",
+              "I1R",
+              "IL1DL",
+              "IL2VR",
+              "M3L",
+              "M4",
+              "MI",
+              "NSML",
+              "NSMR",
+              "OLLL",
+              "OLLR",
+              "OLQDR",
+              "PDB",
+              "PDEL",
+              "PLMR",
+              "PVWR",
+              "RIFR",
+              "RIGL",
+              "SIAVL",
+              "URBL",
+              "URYVL",
+              "VA02",
+              "VA12",
+              "VB03",
+              "VD07",
+              "VD11",
+              "VD13"
+            ],
+            [
+              "ADAR",
+              "AIBL",
+              "AINL",
+              "AS03",
+              "AS05",
+              "ASHR",
+              "ASIL",
+              "ASJR",
+              "ASKL",
+              "AVBL",
+              "AVEL",
+              "AVG",
+              "AVJL",
+              "AWCR",
+              "BAGL",
+              "BAGR",
+              "DA01",
+              "DB04",
+              "IL1L",
+              "LUAR",
+              "M5",
+              "PLNR",
+              "PVT",
+              "RIBL",
+              "RIBR",
+              "RIML",
+              "RIMR",
+              "RMDDR",
+              "RMDR",
+              "RMER",
+              "SABD",
+              "SIBVR",
+              "SMBVR",
+              "URBR",
+              "URYVR",
+              "VA01",
+              "VA03",
+              "VB04",
+              "VC05"
+            ]
+          ]
+        }
+      ],
+      "partitions": [
+        [
+          "ADAL",
+          "ADEL",
+          "ADFL",
+          "AFDL",
+          "AIYR",
+          "AIZR",
+          "ALML",
+          "ALMR",
+          "ALNL",
+          "AS04",
+          "AS09",
+          "ASEL",
+          "ASER",
+          "ASGR",
+          "ASJL",
+          "AVAL",
+          "AVBR",
+          "AVHL",
+          "AVM",
+          "BDUL",
+          "BDUR",
+          "CEPVR",
+          "DA04",
+          "DA05",
+          "DA07",
+          "DA08",
+          "DA09",
+          "DB02",
+          "DD01",
+          "DD02",
+          "DD05",
+          "DVA",
+          "I1L",
+          "I2R",
+          "I4",
+          "I5",
+          "IL1DR",
+          "IL1R",
+          "IL1VL",
+          "IL1VR",
+          "IL2L",
+          "IL2VL",
+          "LUAL",
+          "M2L",
+          "M3R",
+          "MCL",
+          "MCR",
+          "OLQDL",
+          "OLQVR",
+          "PDER",
+          "PHBR",
+          "PHCR",
+          "PLML",
+          "PLNL",
+          "PVQR",
+          "RIAR",
+          "RIFL",
+          "RIGR",
+          "RIPR",
+          "RIVL",
+          "RMDDL",
+          "RMDVR",
+          "RMED",
+          "RMEL",
+          "RMFR",
+          "RMGR",
+          "RMHL",
+          "SAADL",
+          "SDQL",
+          "SDQR",
+          "SIADR",
+          "SIBDR",
+          "SIBVL",
+          "SMDVL",
+          "SMDVR",
+          "URXR",
+          "URYDR",
+          "VA04",
+          "VA08",
+          "VA09",
+          "VA10",
+          "VB02",
+          "VB06",
+          "VB07",
+          "VB08",
+          "VB11",
+          "VC02",
+          "VD01",
+          "VD06",
+          "VD10",
+          "VD12"
+        ],
+        [
+          "ADAR",
+          "ADLL",
+          "ADLR",
+          "AIAL",
+          "AIBL",
+          "AIMR",
+          "AINL",
+          "AQR",
+          "AS03",
+          "AS05",
+          "ASHL",
+          "ASHR",
+          "ASIL",
+          "ASJR",
+          "ASKL",
+          "AVAR",
+          "AVBL",
+          "AVEL",
+          "AVG",
+          "AVHR",
+          "AVJL",
+          "AWAL",
+          "AWBL",
+          "AWCR",
+          "BAGL",
+          "BAGR",
+          "DA01",
+          "DA02",
+          "DB04",
+          "DB05",
+          "DB07",
+          "DD04",
+          "FLPR",
+          "I1R",
+          "IL1DL",
+          "IL1L",
+          "IL2VR",
+          "LUAR",
+          "M3L",
+          "M4",
+          "M5",
+          "MI",
+          "NSML",
+          "NSMR",
+          "OLLL",
+          "OLLR",
+          "OLQDR",
+          "PDB",
+          "PDEL",
+          "PLMR",
+          "PLNR",
+          "PVT",
+          "PVWR",
+          "RIBL",
+          "RIBR",
+          "RIFR",
+          "RIGL",
+          "RIML",
+          "RIMR",
+          "RMDDR",
+          "RMDR",
+          "RMER",
+          "SABD",
+          "SIAVL",
+          "SIBVR",
+          "SMBVR",
+          "URBL",
+          "URBR",
+          "URYVL",
+          "URYVR",
+          "VA01",
+          "VA02",
+          "VA03",
+          "VA12",
+          "VB03",
+          "VB04",
+          "VC05",
+          "VD07",
+          "VD11",
+          "VD13"
+        ]
+      ]
+    },
+    {
+      "Q": 0.03522188380382281,
+      "children": [
+        {
+          "Q": -0.05555555555555557,
+          "children": [
+            {
+              "Q": -0.043721236028928336,
+              "children": [
+                {
+                  "Q": 0.08163265306122448,
+                  "children": [
+                    {
+                      "Q": 4.85722573273506e-17,
+                      "children": [
+                        {
+                          "Q": 0,
+                          "partitions": [
+                            [
+                              "AWCL",
+                              "PHAR"
+                            ],
+                            []
+                          ]
+                        },
+                        {
+                          "Q": -0.11111111111111109,
+                          "children": [
+                            {
+                              "Q": 1.3877787807814457e-17,
+                              "children": [
+                                {
+                                  "Q": 0.0,
+                                  "children": [
+                                    {
+                                      "Q": 0,
+                                      "partitions": [
+                                        [
+                                          "AIZL"
+                                        ],
+                                        []
+                                      ]
+                                    },
+                                    {
+                                      "Q": 0.0,
+                                      "partitions": [
+                                        [],
+                                        [
+                                          "ASKR",
+                                          "AVER"
+                                        ]
+                                      ]
+                                    }
+                                  ],
+                                  "partitions": [
+                                    [
+                                      "AIZL"
+                                    ],
+                                    [
+                                      "ASKR",
+                                      "AVER"
+                                    ]
+                                  ]
+                                },
+                                {
+                                  "Q": 0,
+                                  "partitions": [
+                                    [
+                                      "AVFL",
+                                      "VC04",
+                                      "SMDDL"
+                                    ],
+                                    []
+                                  ]
+                                }
+                              ],
+                              "partitions": [
+                                [
+                                  "AIZL",
+                                  "ASKR",
+                                  "AVER"
+                                ],
+                                [
+                                  "AVFL",
+                                  "SMDDL",
+                                  "VC04"
+                                ]
+                              ]
+                            },
+                            {
+                              "Q": 0,
+                              "partitions": [
+                                [
+                                  "CEPVL",
+                                  "ALNR"
+                                ],
+                                []
+                              ]
+                            }
+                          ],
+                          "partitions": [
+                            [
+                              "AIZL",
+                              "ASKR",
+                              "AVER",
+                              "AVFL",
+                              "SMDDL",
+                              "VC04"
+                            ],
+                            [
+                              "ALNR",
+                              "CEPVL"
+                            ]
+                          ]
+                        }
+                      ],
+                      "partitions": [
+                        [
+                          "AWCL",
+                          "PHAR"
+                        ],
+                        [
+                          "AIZL",
+                          "ALNR",
+                          "ASKR",
+                          "AVER",
+                          "AVFL",
+                          "CEPVL",
+                          "SMDDL",
+                          "VC04"
+                        ]
+                      ]
+                    },
+                    {
+                      "Q": 0.0,
+                      "partitions": [
+                        [],
+                        [
+                          "AFDR",
+                          "AS10",
+                          "AUAR",
+                          "CEPDL",
+                          "DA03",
+                          "FLPL",
+                          "IL2DL"
+                        ]
+                      ]
+                    }
+                  ],
+                  "partitions": [
+                    [
+                      "AIZL",
+                      "ALNR",
+                      "ASKR",
+                      "AVER",
+                      "AVFL",
+                      "AWCL",
+                      "CEPVL",
+                      "PHAR",
+                      "SMDDL",
+                      "VC04"
+                    ],
+                    [
+                      "AFDR",
+                      "AS10",
+                      "AUAR",
+                      "CEPDL",
+                      "DA03",
+                      "FLPL",
+                      "IL2DL"
+                    ]
+                  ]
+                },
+                {
+                  "Q": -1.0408340855860843e-17,
+                  "children": [
+                    {
+                      "Q": 0,
+                      "partitions": [
+                        [
+                          "URADR",
+                          "AIYL",
+                          "URAVR",
+                          "VA06"
+                        ],
+                        []
+                      ]
+                    },
+                    {
+                      "Q": 0.06790123456790123,
+                      "children": [
+                        {
+                          "Q": 0.5,
+                          "children": [
+                            {
+                              "Q": 0.0,
+                              "partitions": [
+                                [],
+                                [
+                                  "PVM"
+                                ]
+                              ]
+                            },
+                            {
+                              "Q": 0.0,
+                              "partitions": [
+                                [],
+                                [
+                                  "PVDL",
+                                  "RIPL",
+                                  "RIR",
+                                  "RMDVL"
+                                ]
+                              ]
+                            }
+                          ],
+                          "partitions": [
+                            [
+                              "PVM"
+                            ],
+                            [
+                              "PVDL",
+                              "RIPL",
+                              "RIR",
+                              "RMDVL"
+                            ]
+                          ]
+                        },
+                        {
+                          "Q": -0.12000000000000002,
+                          "children": [
+                            {
+                              "Q": 0.0,
+                              "partitions": [
+                                [],
+                                [
+                                  "PVCR",
+                                  "RIS",
+                                  "VD04"
+                                ]
+                              ]
+                            },
+                            {
+                              "Q": 4.163336342344337e-17,
+                              "partitions": [
+                                [],
+                                [
+                                  "AS08",
+                                  "ASIR",
+                                  "AVFR",
+                                  "AVL",
+                                  "AWBR",
+                                  "DD03",
+                                  "DVC",
+                                  "PHAL",
+                                  "PHBL",
+                                  "RMEV"
+                                ]
+                              ]
+                            }
+                          ],
+                          "partitions": [
+                            [
+                              "PVCR",
+                              "RIS",
+                              "VD04"
+                            ],
+                            [
+                              "AS08",
+                              "ASIR",
+                              "AVFR",
+                              "AVL",
+                              "AWBR",
+                              "DD03",
+                              "DVC",
+                              "PHAL",
+                              "PHBL",
+                              "RMEV"
+                            ]
+                          ]
+                        }
+                      ],
+                      "partitions": [
+                        [
+                          "PVDL",
+                          "PVM",
+                          "RIPL",
+                          "RIR",
+                          "RMDVL"
+                        ],
+                        [
+                          "AS08",
+                          "ASIR",
+                          "AVFR",
+                          "AVL",
+                          "AWBR",
+                          "DD03",
+                          "DVC",
+                          "PHAL",
+                          "PHBL",
+                          "PVCR",
+                          "RIS",
+                          "RMEV",
+                          "VD04"
+                        ]
+                      ]
+                    }
+                  ],
+                  "partitions": [
+                    [
+                      "AIYL",
+                      "URADR",
+                      "URAVR",
+                      "VA06"
+                    ],
+                    [
+                      "AS08",
+                      "ASIR",
+                      "AVFR",
+                      "AVL",
+                      "AWBR",
+                      "DD03",
+                      "DVC",
+                      "PHAL",
+                      "PHBL",
+                      "PVCR",
+                      "PVDL",
+                      "PVM",
+                      "RIPL",
+                      "RIR",
+                      "RIS",
+                      "RMDVL",
+                      "RMEV",
+                      "VD04"
+                    ]
+                  ]
+                }
+              ],
+              "partitions": [
+                [
+                  "AFDR",
+                  "AIZL",
+                  "ALNR",
+                  "AS10",
+                  "ASKR",
+                  "AUAR",
+                  "AVER",
+                  "AVFL",
+                  "AWCL",
+                  "CEPDL",
+                  "CEPVL",
+                  "DA03",
+                  "FLPL",
+                  "IL2DL",
+                  "PHAR",
+                  "SMDDL",
+                  "VC04"
+                ],
+                [
+                  "AIYL",
+                  "AS08",
+                  "ASIR",
+                  "AVFR",
+                  "AVL",
+                  "AWBR",
+                  "DD03",
+                  "DVC",
+                  "PHAL",
+                  "PHBL",
+                  "PVCR",
+                  "PVDL",
+                  "PVM",
+                  "RIPL",
+                  "RIR",
+                  "RIS",
+                  "RMDVL",
+                  "RMEV",
+                  "URADR",
+                  "URAVR",
+                  "VA06",
+                  "VD04"
+                ]
+              ]
+            },
+            {
+              "Q": 0.0018261504747991396,
+              "children": [
+                {
+                  "Q": -0.064,
+                  "children": [
+                    {
+                      "Q": -0.16326530612244897,
+                      "children": [
+                        {
+                          "Q": 0,
+                          "partitions": [
+                            [
+                              "ADER"
+                            ],
+                            []
+                          ]
+                        },
+                        {
+                          "Q": 4.163336342344337e-17,
+                          "children": [
+                            {
+                              "Q": 0,
+                              "partitions": [
+                                [
+                                  "RIH"
+                                ],
+                                []
+                              ]
+                            },
+                            {
+                              "Q": 4.163336342344337e-17,
+                              "children": [
+                                {
+                                  "Q": 0,
+                                  "partitions": [
+                                    [
+                                      "RMDL"
+                                    ],
+                                    []
+                                  ]
+                                },
+                                {
+                                  "Q": 4.163336342344337e-17,
+                                  "partitions": [
+                                    [],
+                                    [
+                                      "AIBR",
+                                      "AS01",
+                                      "AVDL",
+                                      "AVJR",
+                                      "AWAR"
+                                    ]
+                                  ]
+                                }
+                              ],
+                              "partitions": [
+                                [
+                                  "RMDL"
+                                ],
+                                [
+                                  "AIBR",
+                                  "AS01",
+                                  "AVDL",
+                                  "AVJR",
+                                  "AWAR"
+                                ]
+                              ]
+                            }
+                          ],
+                          "partitions": [
+                            [
+                              "RIH"
+                            ],
+                            [
+                              "AIBR",
+                              "AS01",
+                              "AVDL",
+                              "AVJR",
+                              "AWAR",
+                              "RMDL"
+                            ]
+                          ]
+                        }
+                      ],
+                      "partitions": [
+                        [
+                          "ADER"
+                        ],
+                        [
+                          "AIBR",
+                          "AS01",
+                          "AVDL",
+                          "AVJR",
+                          "AWAR",
+                          "RIH",
+                          "RMDL"
+                        ]
+                      ]
+                    },
+                    {
+                      "Q": 0.0,
+                      "partitions": [
+                        [],
+                        [
+                          "ADFR",
+                          "AS07",
+                          "DB03",
+                          "I6",
+                          "IL2DR",
+                          "PVNR",
+                          "PVQL",
+                          "RIAL",
+                          "VD02"
+                        ]
+                      ]
+                    }
+                  ],
+                  "partitions": [
+                    [
+                      "ADER",
+                      "AIBR",
+                      "AS01",
+                      "AVDL",
+                      "AVJR",
+                      "AWAR",
+                      "RIH",
+                      "RMDL"
+                    ],
+                    [
+                      "ADFR",
+                      "AS07",
+                      "DB03",
+                      "I6",
+                      "IL2DR",
+                      "PVNR",
+                      "PVQL",
+                      "RIAL",
+                      "VD02"
+                    ]
+                  ]
+                },
+                {
+                  "Q": -0.04733727810650888,
+                  "children": [
+                    {
+                      "Q": 2.0816681711721685e-17,
+                      "partitions": [
+                        [],
+                        [
+                          "AIAR",
+                          "AIML",
+                          "AINR",
+                          "ALA",
+                          "AUAL",
+                          "AVDR",
+                          "DVB",
+                          "IL2R",
+                          "OLQVL"
+                        ]
+                      ]
+                    },
+                    {
+                      "Q": 0,
+                      "partitions": [
+                        [
+                          "RICL",
+                          "VB01",
+                          "AS02",
+                          "RMGL"
+                        ],
+                        []
+                      ]
+                    }
+                  ],
+                  "partitions": [
+                    [
+                      "AIAR",
+                      "AIML",
+                      "AINR",
+                      "ALA",
+                      "AUAL",
+                      "AVDR",
+                      "DVB",
+                      "IL2R",
+                      "OLQVL"
+                    ],
+                    [
+                      "AS02",
+                      "RICL",
+                      "RMGL",
+                      "VB01"
+                    ]
+                  ]
+                }
+              ],
+              "partitions": [
+                [
+                  "ADER",
+                  "ADFR",
+                  "AIBR",
+                  "AS01",
+                  "AS07",
+                  "AVDL",
+                  "AVJR",
+                  "AWAR",
+                  "DB03",
+                  "I6",
+                  "IL2DR",
+                  "PVNR",
+                  "PVQL",
+                  "RIAL",
+                  "RIH",
+                  "RMDL",
+                  "VD02"
+                ],
+                [
+                  "AIAR",
+                  "AIML",
+                  "AINR",
+                  "ALA",
+                  "AS02",
+                  "AUAL",
+                  "AVDR",
+                  "DVB",
+                  "IL2R",
+                  "OLQVL",
+                  "RICL",
+                  "RMGL",
+                  "VB01"
+                ]
+              ]
+            }
+          ],
+          "partitions": [
+            [
+              "AFDR",
+              "AIYL",
+              "AIZL",
+              "ALNR",
+              "AS08",
+              "AS10",
+              "ASIR",
+              "ASKR",
+              "AUAR",
+              "AVER",
+              "AVFL",
+              "AVFR",
+              "AVL",
+              "AWBR",
+              "AWCL",
+              "CEPDL",
+              "CEPVL",
+              "DA03",
+              "DD03",
+              "DVC",
+              "FLPL",
+              "IL2DL",
+              "PHAL",
+              "PHAR",
+              "PHBL",
+              "PVCR",
+              "PVDL",
+              "PVM",
+              "RIPL",
+              "RIR",
+              "RIS",
+              "RMDVL",
+              "RMEV",
+              "SMDDL",
+              "URADR",
+              "URAVR",
+              "VA06",
+              "VC04",
+              "VD04"
+            ],
+            [
+              "ADER",
+              "ADFR",
+              "AIAR",
+              "AIBR",
+              "AIML",
+              "AINR",
+              "ALA",
+              "AS01",
+              "AS02",
+              "AS07",
+              "AUAL",
+              "AVDL",
+              "AVDR",
+              "AVJR",
+              "AWAR",
+              "DB03",
+              "DVB",
+              "I6",
+              "IL2DR",
+              "IL2R",
+              "OLQVL",
+              "PVNR",
+              "PVQL",
+              "RIAL",
+              "RICL",
+              "RIH",
+              "RMDL",
+              "RMGL",
+              "VB01",
+              "VD02"
+            ]
+          ]
+        },
+        {
+          "Q": 0.021555367709213867,
+          "children": [
+            {
+              "Q": -0.0680272108843537,
+              "children": [
+                {
+                  "Q": 0.0,
+                  "partitions": [
+                    [],
+                    [
+                      "RMFL",
+                      "VA07",
+                      "VA11",
+                      "VB05",
+                      "VB09",
+                      "VC01",
+                      "VD08"
+                    ]
+                  ]
+                },
+                {
+                  "Q": -0.12000000000000008,
+                  "children": [
+                    {
+                      "Q": 0,
+                      "partitions": [
+                        [
+                          "VD05",
+                          "AS11",
+                          "VB10"
+                        ],
+                        []
+                      ]
+                    },
+                    {
+                      "Q": -0.08,
+                      "children": [
+                        {
+                          "Q": 0,
+                          "partitions": [
+                            [
+                              "RICR"
+                            ],
+                            []
+                          ]
+                        },
+                        {
+                          "Q": 4.163336342344337e-17,
+                          "partitions": [
+                            [],
+                            [
+                              "ASGL",
+                              "AVKL",
+                              "CEPDR",
+                              "DA06",
+                              "M2R",
+                              "PDA",
+                              "PHCL",
+                              "PQR",
+                              "PVNL"
+                            ]
+                          ]
+                        }
+                      ],
+                      "partitions": [
+                        [
+                          "RICR"
+                        ],
+                        [
+                          "ASGL",
+                          "AVKL",
+                          "CEPDR",
+                          "DA06",
+                          "M2R",
+                          "PDA",
+                          "PHCL",
+                          "PQR",
+                          "PVNL"
+                        ]
+                      ]
+                    }
+                  ],
+                  "partitions": [
+                    [
+                      "AS11",
+                      "VB10",
+                      "VD05"
+                    ],
+                    [
+                      "ASGL",
+                      "AVKL",
+                      "CEPDR",
+                      "DA06",
+                      "M2R",
+                      "PDA",
+                      "PHCL",
+                      "PQR",
+                      "PVNL",
+                      "RICR"
+                    ]
+                  ]
+                }
+              ],
+              "partitions": [
+                [
+                  "RMFL",
+                  "VA07",
+                  "VA11",
+                  "VB05",
+                  "VB09",
+                  "VC01",
+                  "VD08"
+                ],
+                [
+                  "AS11",
+                  "ASGL",
+                  "AVKL",
+                  "CEPDR",
+                  "DA06",
+                  "M2R",
+                  "PDA",
+                  "PHCL",
+                  "PQR",
+                  "PVNL",
+                  "RICR",
+                  "VB10",
+                  "VD05"
+                ]
+              ]
+            },
+            {
+              "Q": 0.0786159169550173,
+              "children": [
+                {
+                  "Q": -0.03125,
+                  "children": [
+                    {
+                      "Q": 0,
+                      "partitions": [
+                        [
+                          "SMDDR",
+                          "VA05"
+                        ],
+                        []
+                      ]
+                    },
+                    {
+                      "Q": 6.938893903907228e-18,
+                      "children": [
+                        {
+                          "Q": 0,
+                          "partitions": [
+                            [
+                              "SMBDR",
+                              "URADL"
+                            ],
+                            []
+                          ]
+                        },
+                        {
+                          "Q": 0.375,
+                          "children": [
+                            {
+                              "Q": 3.469446951953614e-18,
+                              "partitions": [
+                                [],
+                                [
+                                  "SIBDL",
+                                  "SMBDL",
+                                  "SMBVL"
+                                ]
+                              ]
+                            },
+                            {
+                              "Q": 0.0,
+                              "partitions": [
+                                [],
+                                [
+                                  "CANR",
+                                  "HSNL",
+                                  "SIAVR",
+                                  "URAVL"
+                                ]
+                              ]
+                            }
+                          ],
+                          "partitions": [
+                            [
+                              "SIBDL",
+                              "SMBDL",
+                              "SMBVL"
+                            ],
+                            [
+                              "CANR",
+                              "HSNL",
+                              "SIAVR",
+                              "URAVL"
+                            ]
+                          ]
+                        }
+                      ],
+                      "partitions": [
+                        [
+                          "SMBDR",
+                          "URADL"
+                        ],
+                        [
+                          "CANR",
+                          "HSNL",
+                          "SIAVR",
+                          "SIBDL",
+                          "SMBDL",
+                          "SMBVL",
+                          "URAVL"
+                        ]
+                      ]
+                    }
+                  ],
+                  "partitions": [
+                    [
+                      "SMDDR",
+                      "VA05"
+                    ],
+                    [
+                      "CANR",
+                      "HSNL",
+                      "SIAVR",
+                      "SIBDL",
+                      "SMBDL",
+                      "SMBDR",
+                      "SMBVL",
+                      "URADL",
+                      "URAVL"
+                    ]
+                  ]
+                },
+                {
+                  "Q": 0.030615877536489845,
+                  "children": [
+                    {
+                      "Q": -0.5,
+                      "children": [
+                        {
+                          "Q": 0,
+                          "partitions": [
+                            [
+                              "SABVR"
+                            ],
+                            []
+                          ]
+                        },
+                        {
+                          "Q": 0,
+                          "partitions": [
+                            [
+                              "DD06",
+                              "SAAVL",
+                              "I2L",
+                              "URYDL",
+                              "SIADL"
+                            ],
+                            []
+                          ]
+                        }
+                      ],
+                      "partitions": [
+                        [
+                          "SABVR"
+                        ],
+                        [
+                          "DD06",
+                          "I2L",
+                          "SAAVL",
+                          "SIADL",
+                          "URYDL"
+                        ]
+                      ]
+                    },
+                    {
+                      "Q": -0.03418803418803419,
+                      "children": [
+                        {
+                          "Q": -0.05555555555555554,
+                          "children": [
+                            {
+                              "Q": 0,
+                              "partitions": [
+                                [
+                                  "AVKR"
+                                ],
+                                []
+                              ]
+                            },
+                            {
+                              "Q": 0.0,
+                              "partitions": [
+                                [],
+                                [
+                                  "CANL",
+                                  "DB01",
+                                  "DB06",
+                                  "M1",
+                                  "PVDR",
+                                  "PVPL",
+                                  "PVPR",
+                                  "PVR",
+                                  "RIVR"
+                                ]
+                              ]
+                            }
+                          ],
+                          "partitions": [
+                            [
+                              "AVKR"
+                            ],
+                            [
+                              "CANL",
+                              "DB01",
+                              "DB06",
+                              "M1",
+                              "PVDR",
+                              "PVPL",
+                              "PVPR",
+                              "PVR",
+                              "RIVR"
+                            ]
+                          ]
+                        },
+                        {
+                          "Q": 1.8214596497756474e-17,
+                          "children": [
+                            {
+                              "Q": 0,
+                              "partitions": [
+                                [
+                                  "SAADR",
+                                  "HSNR"
+                                ],
+                                []
+                              ]
+                            },
+                            {
+                              "Q": -1.734723475976807e-18,
+                              "children": [
+                                {
+                                  "Q": 0,
+                                  "partitions": [
+                                    [
+                                      "VC06"
+                                    ],
+                                    []
+                                  ]
+                                },
+                                {
+                                  "Q": 0.0,
+                                  "children": [
+                                    {
+                                      "Q": 0,
+                                      "partitions": [
+                                        [
+                                          "VD03"
+                                        ],
+                                        []
+                                      ]
+                                    },
+                                    {
+                                      "Q": 2.0816681711721685e-17,
+                                      "children": [
+                                        {
+                                          "Q": 0,
+                                          "partitions": [
+                                            [
+                                              "VC03"
+                                            ],
+                                            []
+                                          ]
+                                        },
+                                        {
+                                          "Q": 2.0816681711721685e-17,
+                                          "children": [
+                                            {
+                                              "Q": 0,
+                                              "partitions": [
+                                                [
+                                                  "VD09"
+                                                ],
+                                                []
+                                              ]
+                                            },
+                                            {
+                                              "Q": 2.0816681711721685e-17,
+                                              "partitions": [
+                                                [],
+                                                [
+                                                  "AS06",
+                                                  "I3",
+                                                  "PVCL",
+                                                  "PVWL",
+                                                  "RID",
+                                                  "RMHR",
+                                                  "SAAVR",
+                                                  "SABVL",
+                                                  "URXL"
+                                                ]
+                                              ]
+                                            }
+                                          ],
+                                          "partitions": [
+                                            [
+                                              "VD09"
+                                            ],
+                                            [
+                                              "AS06",
+                                              "I3",
+                                              "PVCL",
+                                              "PVWL",
+                                              "RID",
+                                              "RMHR",
+                                              "SAAVR",
+                                              "SABVL",
+                                              "URXL"
+                                            ]
+                                          ]
+                                        }
+                                      ],
+                                      "partitions": [
+                                        [
+                                          "VC03"
+                                        ],
+                                        [
+                                          "AS06",
+                                          "I3",
+                                          "PVCL",
+                                          "PVWL",
+                                          "RID",
+                                          "RMHR",
+                                          "SAAVR",
+                                          "SABVL",
+                                          "URXL",
+                                          "VD09"
+                                        ]
+                                      ]
+                                    }
+                                  ],
+                                  "partitions": [
+                                    [
+                                      "VD03"
+                                    ],
+                                    [
+                                      "AS06",
+                                      "I3",
+                                      "PVCL",
+                                      "PVWL",
+                                      "RID",
+                                      "RMHR",
+                                      "SAAVR",
+                                      "SABVL",
+                                      "URXL",
+                                      "VC03",
+                                      "VD09"
+                                    ]
+                                  ]
+                                }
+                              ],
+                              "partitions": [
+                                [
+                                  "VC06"
+                                ],
+                                [
+                                  "AS06",
+                                  "I3",
+                                  "PVCL",
+                                  "PVWL",
+                                  "RID",
+                                  "RMHR",
+                                  "SAAVR",
+                                  "SABVL",
+                                  "URXL",
+                                  "VC03",
+                                  "VD03",
+                                  "VD09"
+                                ]
+                              ]
+                            }
+                          ],
+                          "partitions": [
+                            [
+                              "HSNR",
+                              "SAADR"
+                            ],
+                            [
+                              "AS06",
+                              "I3",
+                              "PVCL",
+                              "PVWL",
+                              "RID",
+                              "RMHR",
+                              "SAAVR",
+                              "SABVL",
+                              "URXL",
+                              "VC03",
+                              "VC06",
+                              "VD03",
+                              "VD09"
+                            ]
+                          ]
+                        }
+                      ],
+                      "partitions": [
+                        [
+                          "AVKR",
+                          "CANL",
+                          "DB01",
+                          "DB06",
+                          "M1",
+                          "PVDR",
+                          "PVPL",
+                          "PVPR",
+                          "PVR",
+                          "RIVR"
+                        ],
+                        [
+                          "AS06",
+                          "HSNR",
+                          "I3",
+                          "PVCL",
+                          "PVWL",
+                          "RID",
+                          "RMHR",
+                          "SAADR",
+                          "SAAVR",
+                          "SABVL",
+                          "URXL",
+                          "VC03",
+                          "VC06",
+                          "VD03",
+                          "VD09"
+                        ]
+                      ]
+                    }
+                  ],
+                  "partitions": [
+                    [
+                      "DD06",
+                      "I2L",
+                      "SAAVL",
+                      "SABVR",
+                      "SIADL",
+                      "URYDL"
+                    ],
+                    [
+                      "AS06",
+                      "AVKR",
+                      "CANL",
+                      "DB01",
+                      "DB06",
+                      "HSNR",
+                      "I3",
+                      "M1",
+                      "PVCL",
+                      "PVDR",
+                      "PVPL",
+                      "PVPR",
+                      "PVR",
+                      "PVWL",
+                      "RID",
+                      "RIVR",
+                      "RMHR",
+                      "SAADR",
+                      "SAAVR",
+                      "SABVL",
+                      "URXL",
+                      "VC03",
+                      "VC06",
+                      "VD03",
+                      "VD09"
+                    ]
+                  ]
+                }
+              ],
+              "partitions": [
+                [
+                  "CANR",
+                  "HSNL",
+                  "SIAVR",
+                  "SIBDL",
+                  "SMBDL",
+                  "SMBDR",
+                  "SMBVL",
+                  "SMDDR",
+                  "URADL",
+                  "URAVL",
+                  "VA05"
+                ],
+                [
+                  "AS06",
+                  "AVKR",
+                  "CANL",
+                  "DB01",
+                  "DB06",
+                  "DD06",
+                  "HSNR",
+                  "I2L",
+                  "I3",
+                  "M1",
+                  "PVCL",
+                  "PVDR",
+                  "PVPL",
+                  "PVPR",
+                  "PVR",
+                  "PVWL",
+                  "RID",
+                  "RIVR",
+                  "RMHR",
+                  "SAADR",
+                  "SAAVL",
+                  "SAAVR",
+                  "SABVL",
+                  "SABVR",
+                  "SIADL",
+                  "URXL",
+                  "URYDL",
+                  "VC03",
+                  "VC06",
+                  "VD03",
+                  "VD09"
+                ]
+              ]
+            }
+          ],
+          "partitions": [
+            [
+              "AS11",
+              "ASGL",
+              "AVKL",
+              "CEPDR",
+              "DA06",
+              "M2R",
+              "PDA",
+              "PHCL",
+              "PQR",
+              "PVNL",
+              "RICR",
+              "RMFL",
+              "VA07",
+              "VA11",
+              "VB05",
+              "VB09",
+              "VB10",
+              "VC01",
+              "VD05",
+              "VD08"
+            ],
+            [
+              "AS06",
+              "AVKR",
+              "CANL",
+              "CANR",
+              "DB01",
+              "DB06",
+              "DD06",
+              "HSNL",
+              "HSNR",
+              "I2L",
+              "I3",
+              "M1",
+              "PVCL",
+              "PVDR",
+              "PVPL",
+              "PVPR",
+              "PVR",
+              "PVWL",
+              "RID",
+              "RIVR",
+              "RMHR",
+              "SAADR",
+              "SAAVL",
+              "SAAVR",
+              "SABVL",
+              "SABVR",
+              "SIADL",
+              "SIAVR",
+              "SIBDL",
+              "SMBDL",
+              "SMBDR",
+              "SMBVL",
+              "SMDDR",
+              "URADL",
+              "URAVL",
+              "URXL",
+              "URYDL",
+              "VA05",
+              "VC03",
+              "VC06",
+              "VD03",
+              "VD09"
+            ]
+          ]
+        }
+      ],
+      "partitions": [
+        [
+          "ADER",
+          "ADFR",
+          "AFDR",
+          "AIAR",
+          "AIBR",
+          "AIML",
+          "AINR",
+          "AIYL",
+          "AIZL",
+          "ALA",
+          "ALNR",
+          "AS01",
+          "AS02",
+          "AS07",
+          "AS08",
+          "AS10",
+          "ASIR",
+          "ASKR",
+          "AUAL",
+          "AUAR",
+          "AVDL",
+          "AVDR",
+          "AVER",
+          "AVFL",
+          "AVFR",
+          "AVJR",
+          "AVL",
+          "AWAR",
+          "AWBR",
+          "AWCL",
+          "CEPDL",
+          "CEPVL",
+          "DA03",
+          "DB03",
+          "DD03",
+          "DVB",
+          "DVC",
+          "FLPL",
+          "I6",
+          "IL2DL",
+          "IL2DR",
+          "IL2R",
+          "OLQVL",
+          "PHAL",
+          "PHAR",
+          "PHBL",
+          "PVCR",
+          "PVDL",
+          "PVM",
+          "PVNR",
+          "PVQL",
+          "RIAL",
+          "RICL",
+          "RIH",
+          "RIPL",
+          "RIR",
+          "RIS",
+          "RMDL",
+          "RMDVL",
+          "RMEV",
+          "RMGL",
+          "SMDDL",
+          "URADR",
+          "URAVR",
+          "VA06",
+          "VB01",
+          "VC04",
+          "VD02",
+          "VD04"
+        ],
+        [
+          "AS06",
+          "AS11",
+          "ASGL",
+          "AVKL",
+          "AVKR",
+          "CANL",
+          "CANR",
+          "CEPDR",
+          "DA06",
+          "DB01",
+          "DB06",
+          "DD06",
+          "HSNL",
+          "HSNR",
+          "I2L",
+          "I3",
+          "M1",
+          "M2R",
+          "PDA",
+          "PHCL",
+          "PQR",
+          "PVCL",
+          "PVDR",
+          "PVNL",
+          "PVPL",
+          "PVPR",
+          "PVR",
+          "PVWL",
+          "RICR",
+          "RID",
+          "RIVR",
+          "RMFL",
+          "RMHR",
+          "SAADR",
+          "SAAVL",
+          "SAAVR",
+          "SABVL",
+          "SABVR",
+          "SIADL",
+          "SIAVR",
+          "SIBDL",
+          "SMBDL",
+          "SMBDR",
+          "SMBVL",
+          "SMDDR",
+          "URADL",
+          "URAVL",
+          "URXL",
+          "URYDL",
+          "VA05",
+          "VA07",
+          "VA11",
+          "VB05",
+          "VB09",
+          "VB10",
+          "VC01",
+          "VC03",
+          "VC06",
+          "VD03",
+          "VD05",
+          "VD08",
+          "VD09"
+        ]
+      ]
+    }
+  ],
+  "partitions": [
+    [
+      "ADAL",
+      "ADAR",
+      "ADEL",
+      "ADFL",
+      "ADLL",
+      "ADLR",
+      "AFDL",
+      "AIAL",
+      "AIBL",
+      "AIMR",
+      "AINL",
+      "AIYR",
+      "AIZR",
+      "ALML",
+      "ALMR",
+      "ALNL",
+      "AQR",
+      "AS03",
+      "AS04",
+      "AS05",
+      "AS09",
+      "ASEL",
+      "ASER",
+      "ASGR",
+      "ASHL",
+      "ASHR",
+      "ASIL",
+      "ASJL",
+      "ASJR",
+      "ASKL",
+      "AVAL",
+      "AVAR",
+      "AVBL",
+      "AVBR",
+      "AVEL",
+      "AVG",
+      "AVHL",
+      "AVHR",
+      "AVJL",
+      "AVM",
+      "AWAL",
+      "AWBL",
+      "AWCR",
+      "BAGL",
+      "BAGR",
+      "BDUL",
+      "BDUR",
+      "CEPVR",
+      "DA01",
+      "DA02",
+      "DA04",
+      "DA05",
+      "DA07",
+      "DA08",
+      "DA09",
+      "DB02",
+      "DB04",
+      "DB05",
+      "DB07",
+      "DD01",
+      "DD02",
+      "DD04",
+      "DD05",
+      "DVA",
+      "FLPR",
+      "I1L",
+      "I1R",
+      "I2R",
+      "I4",
+      "I5",
+      "IL1DL",
+      "IL1DR",
+      "IL1L",
+      "IL1R",
+      "IL1VL",
+      "IL1VR",
+      "IL2L",
+      "IL2VL",
+      "IL2VR",
+      "LUAL",
+      "LUAR",
+      "M2L",
+      "M3L",
+      "M3R",
+      "M4",
+      "M5",
+      "MCL",
+      "MCR",
+      "MI",
+      "NSML",
+      "NSMR",
+      "OLLL",
+      "OLLR",
+      "OLQDL",
+      "OLQDR",
+      "OLQVR",
+      "PDB",
+      "PDEL",
+      "PDER",
+      "PHBR",
+      "PHCR",
+      "PLML",
+      "PLMR",
+      "PLNL",
+      "PLNR",
+      "PVQR",
+      "PVT",
+      "PVWR",
+      "RIAR",
+      "RIBL",
+      "RIBR",
+      "RIFL",
+      "RIFR",
+      "RIGL",
+      "RIGR",
+      "RIML",
+      "RIMR",
+      "RIPR",
+      "RIVL",
+      "RMDDL",
+      "RMDDR",
+      "RMDR",
+      "RMDVR",
+      "RMED",
+      "RMEL",
+      "RMER",
+      "RMFR",
+      "RMGR",
+      "RMHL",
+      "SAADL",
+      "SABD",
+      "SDQL",
+      "SDQR",
+      "SIADR",
+      "SIAVL",
+      "SIBDR",
+      "SIBVL",
+      "SIBVR",
+      "SMBVR",
+      "SMDVL",
+      "SMDVR",
+      "URBL",
+      "URBR",
+      "URXR",
+      "URYDR",
+      "URYVL",
+      "URYVR",
+      "VA01",
+      "VA02",
+      "VA03",
+      "VA04",
+      "VA08",
+      "VA09",
+      "VA10",
+      "VA12",
+      "VB02",
+      "VB03",
+      "VB04",
+      "VB06",
+      "VB07",
+      "VB08",
+      "VB11",
+      "VC02",
+      "VC05",
+      "VD01",
+      "VD06",
+      "VD07",
+      "VD10",
+      "VD11",
+      "VD12",
+      "VD13"
+    ],
+    [
+      "ADER",
+      "ADFR",
+      "AFDR",
+      "AIAR",
+      "AIBR",
+      "AIML",
+      "AINR",
+      "AIYL",
+      "AIZL",
+      "ALA",
+      "ALNR",
+      "AS01",
+      "AS02",
+      "AS06",
+      "AS07",
+      "AS08",
+      "AS10",
+      "AS11",
+      "ASGL",
+      "ASIR",
+      "ASKR",
+      "AUAL",
+      "AUAR",
+      "AVDL",
+      "AVDR",
+      "AVER",
+      "AVFL",
+      "AVFR",
+      "AVJR",
+      "AVKL",
+      "AVKR",
+      "AVL",
+      "AWAR",
+      "AWBR",
+      "AWCL",
+      "CANL",
+      "CANR",
+      "CEPDL",
+      "CEPDR",
+      "CEPVL",
+      "DA03",
+      "DA06",
+      "DB01",
+      "DB03",
+      "DB06",
+      "DD03",
+      "DD06",
+      "DVB",
+      "DVC",
+      "FLPL",
+      "HSNL",
+      "HSNR",
+      "I2L",
+      "I3",
+      "I6",
+      "IL2DL",
+      "IL2DR",
+      "IL2R",
+      "M1",
+      "M2R",
+      "OLQVL",
+      "PDA",
+      "PHAL",
+      "PHAR",
+      "PHBL",
+      "PHCL",
+      "PQR",
+      "PVCL",
+      "PVCR",
+      "PVDL",
+      "PVDR",
+      "PVM",
+      "PVNL",
+      "PVNR",
+      "PVPL",
+      "PVPR",
+      "PVQL",
+      "PVR",
+      "PVWL",
+      "RIAL",
+      "RICL",
+      "RICR",
+      "RID",
+      "RIH",
+      "RIPL",
+      "RIR",
+      "RIS",
+      "RIVR",
+      "RMDL",
+      "RMDVL",
+      "RMEV",
+      "RMFL",
+      "RMGL",
+      "RMHR",
+      "SAADR",
+      "SAAVL",
+      "SAAVR",
+      "SABVL",
+      "SABVR",
+      "SIADL",
+      "SIAVR",
+      "SIBDL",
+      "SMBDL",
+      "SMBDR",
+      "SMBVL",
+      "SMDDL",
+      "SMDDR",
+      "URADL",
+      "URADR",
+      "URAVL",
+      "URAVR",
+      "URXL",
+      "URYDL",
+      "VA05",
+      "VA06",
+      "VA07",
+      "VA11",
+      "VB01",
+      "VB05",
+      "VB09",
+      "VB10",
+      "VC01",
+      "VC03",
+      "VC04",
+      "VC06",
+      "VD02",
+      "VD03",
+      "VD04",
+      "VD05",
+      "VD08",
+      "VD09"
+    ]
+  ]
+}
