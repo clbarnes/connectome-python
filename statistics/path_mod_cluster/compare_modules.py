@@ -68,9 +68,13 @@ def smap_to_modules(smap_path):
 
 def main():
     for source in ('ww', 'ac'):
-        for etype in ('_phys', '_ma'):
-            # G = C[source].collapse('GapJunction', 'Synapse', 'Monoamine')
-            smap_to_modules('data/{}{}.smap'.format(source, etype))
+        for etype in ('phys', 'ma'):
+            if etype == 'ma':
+                G = C[source].compose('GapJunction', 'Synapse', 'Monoamine')
+            else:
+                G = C[source].compose('GapJunction', 'Synapse')
+            write_smap(G, 'data/{}_{}'.format(source, etype), 1)
+            smap_to_modules('data/{}_{}.smap'.format(source, etype))
 
     print('\n\nfinished\n')
 
