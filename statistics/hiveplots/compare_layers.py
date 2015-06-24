@@ -2,8 +2,7 @@ import networkx as nx
 from multiplex import MultiplexConnectome
 from hiveplotter import HivePlot
 import json
-from matplotlib import pyplot as plt
-from mpl_toolkits.mplot3d import Axes3D
+import os
 
 
 morphology_path = '/home/cbarnes/data/connectome/morphologies.json'
@@ -19,6 +18,8 @@ for source in ('ww', 'ac'):
             for node, data in G.nodes_iter(data=True):
                 data['soma_position'] = morph[node]['soma']
                 data['AP'] = - morph[node]['soma'][1]
+
+        os.makedirs('img/compare_layers_{}/'.format(order_by), exist_ok=True)
 
         for split in (True, False):
 
